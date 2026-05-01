@@ -130,7 +130,14 @@ body {
   position: relative; aspect-ratio: 16 / 10; background: var(--bg-body);
   display: flex; align-items: center; justify-content: center;
 }
-.viz-body video { width: 100%; height: 100%; object-fit: contain; }
+.viz-body video { width: 100%; height: 100%; object-fit: contain; background: var(--bg-body); }
+.viz-body .canvas2d:empty + video[src=''] { opacity: 0.5; }
+.clip-block:not(.loaded) .viz-body::before {
+  content: 'Click ▶ to load'; position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text-muted); font-size: 0.85rem; pointer-events: none;
+  font-family: 'Inter', sans-serif; letter-spacing: 0.05em;
+}
 .viz-body .canvas2d {
   position: absolute; top: 0; left: 0; width: 100%; height: 100%;
   pointer-events: none; z-index: 5;
@@ -465,22 +472,10 @@ function showStack(title, clips) {
     viewers[id] = { clip: c, loaded: false, dataset: activeTab };
   }
 
-  // Lazy load with IntersectionObserver
-  const observer = new IntersectionObserver((entries) => {
-    for (const entry of entries) {
-      if (entry.isIntersecting) {
-        const id = entry.target.id;
-        if (viewers[id] && !viewers[id].loaded) {
-          viewers[id].loaded = true;
-          initClipViewer(id);
-        }
-      }
-    }
-  }, { rootMargin: '200px' });
-
-  for (let i = 0; i < clips.length; i++) {
-    observer.observe(document.getElementById('clip_' + i));
-  }
+  // Click-to-load: clips stay idle until the user hits ▶ on a card.
+  // Auto-loading on scroll-in choked the main thread when many cards
+  // were in view at once and made the 2D track look laggy.
+  /* observer disabled */
 }
 
 function backToGroups() {
@@ -511,6 +506,7 @@ async function initClipViewer(id) {
   const c = v.clip;
 
   // Setup video
+  document.getElementById(id).classList.add('loaded');
   v.video = document.getElementById(id + '_video');
   v.canvas2d = document.getElementById(id + '_c2d');
   v.ctx2d = v.canvas2d.getContext('2d');
@@ -577,15 +573,26 @@ async function initClipViewer(id) {
   }
 }
 
-function togglePlayV(id) {
+async function togglePlayV(id) {
   const v = viewers[id];
-  if (!v || !v.video) return;
+  if (!v) return;
+  if (!v.loaded) {
+    v.loaded = true;
+    await initClipViewer(id);  // also calls video.play() once src is set
+    return;
+  }
+  if (!v.video) return;
   if (v.video.paused) { v.video.play(); document.getElementById(id+'_pp').innerHTML = '&#9646;&#9646;'; }
   else { v.video.pause(); document.getElementById(id+'_pp').innerHTML = '&#9654;'; }
 }
-function scrubV(id, val) {
+async function scrubV(id, val) {
   const v = viewers[id];
-  if (v && v.video && v.video.duration) v.video.currentTime = (val / 100) * v.video.duration;
+  if (!v) return;
+  if (!v.loaded) {
+    v.loaded = true;
+    await initClipViewer(id);
+  }
+  if (v.video && v.video.duration) v.video.currentTime = (val / 100) * v.video.duration;
 }
 
 // ============================================================
