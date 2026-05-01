@@ -1,6 +1,1086 @@
 {
   "hdepic": [
     {
+      "id": "P09-20240622-150155-851",
+      "participant": "P09",
+      "text": "move chicken from the saucepan in the left hand onto the chopping board with the fork in the right hand",
+      "data_url": "static/data/hdepic/P09-20240622-150155-851.json",
+      "rgb_url": "videos/hdepic/P09-20240622-150155-851.mp4",
+      "T": 529,
+      "score": 11.0367
+    },
+    {
+      "id": "P04-20240414-170520-222",
+      "participant": "P04",
+      "text": "use the spoon in the right hand to scrape off the mashed potatoes from the masher",
+      "data_url": "static/data/hdepic/P04-20240414-170520-222.json",
+      "rgb_url": "videos/hdepic/P04-20240414-170520-222.mp4",
+      "T": 500,
+      "score": 10.4624
+    },
+    {
+      "id": "P07-20240530-102543-287",
+      "participant": "P07",
+      "text": "pick up the fork from the bowl and stir the ingredients",
+      "data_url": "static/data/hdepic/P07-20240530-102543-287.json",
+      "rgb_url": "videos/hdepic/P07-20240530-102543-287.mp4",
+      "T": 424,
+      "score": 10.3455
+    },
+    {
+      "id": "P03-20240216-185832-926",
+      "participant": "P03",
+      "text": "pour water into the mixture with the cup",
+      "data_url": "static/data/hdepic/P03-20240216-185832-926.json",
+      "rgb_url": "videos/hdepic/P03-20240216-185832-926.mp4",
+      "T": 372,
+      "score": 10.0462
+    },
+    {
+      "id": "P09-20240622-150155-968",
+      "participant": "P09",
+      "text": "place the bowl of shredded chicken on the counter with the left hand",
+      "data_url": "static/data/hdepic/P09-20240622-150155-968.json",
+      "rgb_url": "videos/hdepic/P09-20240622-150155-968.mp4",
+      "T": 279,
+      "score": 9.9045
+    },
+    {
+      "id": "P04-20240414-065311-402",
+      "participant": "P04",
+      "text": "grab one packet of puff pastry with my left hand",
+      "data_url": "static/data/hdepic/P04-20240414-065311-402.json",
+      "rgb_url": "videos/hdepic/P04-20240414-065311-402.mp4",
+      "T": 390,
+      "score": 9.8764
+    },
+    {
+      "id": "P07-20240529-191007-373",
+      "participant": "P07",
+      "text": "pour the contents of the jug into the colander",
+      "data_url": "static/data/hdepic/P07-20240529-191007-373.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-373.mp4",
+      "T": 319,
+      "score": 9.8461
+    },
+    {
+      "id": "P07-20240530-102543-535",
+      "participant": "P07",
+      "text": "scoop up cookie dough with both spoons. transfer cookie dough from one spoon to the other repeatedly. place the round ball of cookie dough onto the baking tray.",
+      "data_url": "static/data/hdepic/P07-20240530-102543-535.json",
+      "rgb_url": "videos/hdepic/P07-20240530-102543-535.mp4",
+      "T": 335,
+      "score": 9.8231
+    },
+    {
+      "id": "P06-20240510-090328-436",
+      "participant": "P06",
+      "text": "place the vegetables on the pancake with the right hand while holding the plate in the left hand",
+      "data_url": "static/data/hdepic/P06-20240510-090328-436.json",
+      "rgb_url": "videos/hdepic/P06-20240510-090328-436.mp4",
+      "T": 312,
+      "score": 9.7134
+    },
+    {
+      "id": "P03-20240216-185832-830",
+      "participant": "P03",
+      "text": "tilt the flour bag above the bowl to pour flour",
+      "data_url": "static/data/hdepic/P03-20240216-185832-830.json",
+      "rgb_url": "videos/hdepic/P03-20240216-185832-830.mp4",
+      "T": 347,
+      "score": 9.7116
+    },
+    {
+      "id": "P07-20240530-102543-548",
+      "participant": "P07",
+      "text": "pick up a scoop of cookie dough with both spoons. scrape it from one spoon to the other repeatedly. place this ball of cookie dough onto the baking tray.",
+      "data_url": "static/data/hdepic/P07-20240530-102543-548.json",
+      "rgb_url": "videos/hdepic/P07-20240530-102543-548.mp4",
+      "T": 288,
+      "score": 9.535
+    },
+    {
+      "id": "P07-20240529-194518-23",
+      "participant": "P07",
+      "text": "pick up the wooden spatula and stir the mushrooms",
+      "data_url": "static/data/hdepic/P07-20240529-194518-23.json",
+      "rgb_url": "videos/hdepic/P07-20240529-194518-23.mp4",
+      "T": 269,
+      "score": 9.4965
+    },
+    {
+      "id": "P07-20240529-191007-503",
+      "participant": "P07",
+      "text": "pick up the wooden spatula with the right hand",
+      "data_url": "static/data/hdepic/P07-20240529-191007-503.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-503.mp4",
+      "T": 284,
+      "score": 9.4559
+    },
+    {
+      "id": "P09-20240622-150155-1004",
+      "participant": "P09",
+      "text": "scoop out boiled potatoes from the saucepan using the fork in my right hand",
+      "data_url": "static/data/hdepic/P09-20240622-150155-1004.json",
+      "rgb_url": "videos/hdepic/P09-20240622-150155-1004.mp4",
+      "T": 261,
+      "score": 9.3962
+    },
+    {
+      "id": "P01-20240202-161948-95",
+      "participant": "P01",
+      "text": "hit the cheese block on the grater to drop cheese onto the plate",
+      "data_url": "static/data/hdepic/P01-20240202-161948-95.json",
+      "rgb_url": "videos/hdepic/P01-20240202-161948-95.mp4",
+      "T": 311,
+      "score": 9.3752
+    },
+    {
+      "id": "P04-20240414-175337-74",
+      "participant": "P04",
+      "text": "pick up the dosa with the spatula in the right hand",
+      "data_url": "static/data/hdepic/P04-20240414-175337-74.json",
+      "rgb_url": "videos/hdepic/P04-20240414-175337-74.mp4",
+      "T": 303,
+      "score": 9.3668
+    },
+    {
+      "id": "P07-20240531-201703-42",
+      "participant": "P07",
+      "text": "place the half sweet potato flat side down. trim off the skin with the knife",
+      "data_url": "static/data/hdepic/P07-20240531-201703-42.json",
+      "rgb_url": "videos/hdepic/P07-20240531-201703-42.mp4",
+      "T": 288,
+      "score": 9.2674
+    },
+    {
+      "id": "P02-20240211-111822-606",
+      "participant": "P02",
+      "text": "try and pick up the eggshell from the mixture with the right hand",
+      "data_url": "static/data/hdepic/P02-20240211-111822-606.json",
+      "rgb_url": "videos/hdepic/P02-20240211-111822-606.mp4",
+      "T": 186,
+      "score": 9.2321
+    },
+    {
+      "id": "P01-20240204-121042-465",
+      "participant": "P01",
+      "text": "put the tray inside the sink with the left hand",
+      "data_url": "static/data/hdepic/P01-20240204-121042-465.json",
+      "rgb_url": "videos/hdepic/P01-20240204-121042-465.mp4",
+      "T": 252,
+      "score": 9.2177
+    },
+    {
+      "id": "P05-20240425-173353-122",
+      "participant": "P05",
+      "text": "place the bowl down on the counter with the left hand",
+      "data_url": "static/data/hdepic/P05-20240425-173353-122.json",
+      "rgb_url": "videos/hdepic/P05-20240425-173353-122.mp4",
+      "T": 252,
+      "score": 9.1925
+    },
+    {
+      "id": "P08-20240614-085000-211",
+      "participant": "P08",
+      "text": "pick up the spatula with the right hand. mix eggs in the pan. hold the pan steady with the left hand",
+      "data_url": "static/data/hdepic/P08-20240614-085000-211.json",
+      "rgb_url": "videos/hdepic/P08-20240614-085000-211.mp4",
+      "T": 262,
+      "score": 9.1572
+    },
+    {
+      "id": "P05-20240425-173353-232",
+      "participant": "P05",
+      "text": "use a serving spoon with the right hand to transfer carbonara to the empty plate in the left hand",
+      "data_url": "static/data/hdepic/P05-20240425-173353-232.json",
+      "rgb_url": "videos/hdepic/P05-20240425-173353-232.mp4",
+      "T": 269,
+      "score": 9.1388
+    },
+    {
+      "id": "P07-20240530-102543-317",
+      "participant": "P07",
+      "text": "pick up the fork with the right hand. hold the silver bowl with the left hand",
+      "data_url": "static/data/hdepic/P07-20240530-102543-317.json",
+      "rgb_url": "videos/hdepic/P07-20240530-102543-317.mp4",
+      "T": 245,
+      "score": 9.0043
+    },
+    {
+      "id": "P05-20240425-171455-251",
+      "participant": "P05",
+      "text": "pour water from the kettle into the pan with the right hand",
+      "data_url": "static/data/hdepic/P05-20240425-171455-251.json",
+      "rgb_url": "videos/hdepic/P05-20240425-171455-251.mp4",
+      "T": 188,
+      "score": 8.9303
+    },
+    {
+      "id": "P07-20240530-102543-291",
+      "participant": "P07",
+      "text": "switch the fork from the left hand to the right hand and pick up the bowl with the left arm",
+      "data_url": "static/data/hdepic/P07-20240530-102543-291.json",
+      "rgb_url": "videos/hdepic/P07-20240530-102543-291.mp4",
+      "T": 202,
+      "score": 8.8962
+    },
+    {
+      "id": "P04-20240413-142619-512",
+      "participant": "P04",
+      "text": "scoop out the inner parts of the tomato with the knife",
+      "data_url": "static/data/hdepic/P04-20240413-142619-512.json",
+      "rgb_url": "videos/hdepic/P04-20240413-142619-512.mp4",
+      "T": 230,
+      "score": 8.8693
+    },
+    {
+      "id": "P07-20240529-194518-74",
+      "participant": "P07",
+      "text": "transfer the spatula to the right hand",
+      "data_url": "static/data/hdepic/P07-20240529-194518-74.json",
+      "rgb_url": "videos/hdepic/P07-20240529-194518-74.mp4",
+      "T": 234,
+      "score": 8.8631
+    },
+    {
+      "id": "P05-20240424-175101-152",
+      "participant": "P05",
+      "text": "pick up the washing up brush with the right hand. scrub the mortar.",
+      "data_url": "static/data/hdepic/P05-20240424-175101-152.json",
+      "rgb_url": "videos/hdepic/P05-20240424-175101-152.mp4",
+      "T": 284,
+      "score": 8.8624
+    },
+    {
+      "id": "P07-20240529-191007-138",
+      "participant": "P07",
+      "text": "pour more water into glass jug",
+      "data_url": "static/data/hdepic/P07-20240529-191007-138.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-138.mp4",
+      "T": 236,
+      "score": 8.8153
+    },
+    {
+      "id": "P07-20240529-191007-203",
+      "participant": "P07",
+      "text": "pick up the onion skins from the back of the work surface. place them into the left hand",
+      "data_url": "static/data/hdepic/P07-20240529-191007-203.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-203.mp4",
+      "T": 202,
+      "score": 8.8145
+    },
+    {
+      "id": "P07-20240529-191007-547",
+      "participant": "P07",
+      "text": "pick up the wooden spatula with the right hand and pour the mushrooms into the frying pan",
+      "data_url": "static/data/hdepic/P07-20240529-191007-547.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-547.mp4",
+      "T": 245,
+      "score": 8.7808
+    },
+    {
+      "id": "P05-20240424-171038-369",
+      "participant": "P05",
+      "text": "pick up bigger spoon from counter with the right hand",
+      "data_url": "static/data/hdepic/P05-20240424-171038-369.json",
+      "rgb_url": "videos/hdepic/P05-20240424-171038-369.mp4",
+      "T": 287,
+      "score": 8.7284
+    },
+    {
+      "id": "P04-20240414-175337-172",
+      "participant": "P04",
+      "text": "pick up the dosa by sliding the spatula under it.",
+      "data_url": "static/data/hdepic/P04-20240414-175337-172.json",
+      "rgb_url": "videos/hdepic/P04-20240414-175337-172.mp4",
+      "T": 269,
+      "score": 8.6735
+    },
+    {
+      "id": "P04-20240413-142619-217",
+      "participant": "P04",
+      "text": "reach into the condiment jar with the spoon in the left hand",
+      "data_url": "static/data/hdepic/P04-20240413-142619-217.json",
+      "rgb_url": "videos/hdepic/P04-20240413-142619-217.mp4",
+      "T": 216,
+      "score": 8.6689
+    },
+    {
+      "id": "P07-20240531-101357-446",
+      "participant": "P07",
+      "text": "pick up the rubber feet of the air fryer grille with the draining board. replace it",
+      "data_url": "static/data/hdepic/P07-20240531-101357-446.json",
+      "rgb_url": "videos/hdepic/P07-20240531-101357-446.mp4",
+      "T": 217,
+      "score": 8.6541
+    },
+    {
+      "id": "P04-20240414-065311-526",
+      "participant": "P04",
+      "text": "tilt the pan over the fresh plate. transfer the scrambled eggs from the pan to the plate using the rubber spatula",
+      "data_url": "static/data/hdepic/P04-20240414-065311-526.json",
+      "rgb_url": "videos/hdepic/P04-20240414-065311-526.mp4",
+      "T": 199,
+      "score": 8.5744
+    },
+    {
+      "id": "P08-20240614-085000-296",
+      "participant": "P08",
+      "text": "put the pan under running water to clean",
+      "data_url": "static/data/hdepic/P08-20240614-085000-296.json",
+      "rgb_url": "videos/hdepic/P08-20240614-085000-296.mp4",
+      "T": 156,
+      "score": 8.5702
+    },
+    {
+      "id": "P04-20240413-142619-148",
+      "participant": "P04",
+      "text": "tip the bowl of chicken to pour out excess water with the left hand",
+      "data_url": "static/data/hdepic/P04-20240413-142619-148.json",
+      "rgb_url": "videos/hdepic/P04-20240413-142619-148.mp4",
+      "T": 290,
+      "score": 8.5563
+    },
+    {
+      "id": "P08-20240613-123547-46",
+      "participant": "P08",
+      "text": "grab more cherry tomatoes and slice down with the knife in the right hand.",
+      "data_url": "static/data/hdepic/P08-20240613-123547-46.json",
+      "rgb_url": "videos/hdepic/P08-20240613-123547-46.mp4",
+      "T": 187,
+      "score": 8.5473
+    },
+    {
+      "id": "P07-20240529-191007-400",
+      "participant": "P07",
+      "text": "open the foil packaging and pour the crumbled stock cube into the mushroom broth",
+      "data_url": "static/data/hdepic/P07-20240529-191007-400.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-400.mp4",
+      "T": 145,
+      "score": 8.5419
+    },
+    {
+      "id": "P01-20240204-121042-533",
+      "participant": "P01",
+      "text": "slide the spatula against the rim of the pot to drop the soft dates",
+      "data_url": "static/data/hdepic/P01-20240204-121042-533.json",
+      "rgb_url": "videos/hdepic/P01-20240204-121042-533.mp4",
+      "T": 196,
+      "score": 8.5367
+    },
+    {
+      "id": "P01-20240203-135502-436",
+      "participant": "P01",
+      "text": "insert the spoon inside the jar and mix the content",
+      "data_url": "static/data/hdepic/P01-20240203-135502-436.json",
+      "rgb_url": "videos/hdepic/P01-20240203-135502-436.mp4",
+      "T": 238,
+      "score": 8.5319
+    },
+    {
+      "id": "P04-20240414-170520-239",
+      "participant": "P04",
+      "text": "use the spatula to drag and transfer the mashed potatoes from the plate to the pan",
+      "data_url": "static/data/hdepic/P04-20240414-170520-239.json",
+      "rgb_url": "videos/hdepic/P04-20240414-170520-239.mp4",
+      "T": 201,
+      "score": 8.5221
+    },
+    {
+      "id": "P07-20240530-102543-534",
+      "participant": "P07",
+      "text": "scoop up cookie dough with both spoons. transfer cookie dough from one spoon to the other repeatedly. place the round ball of cookie dough onto the baking tray.",
+      "data_url": "static/data/hdepic/P07-20240530-102543-534.json",
+      "rgb_url": "videos/hdepic/P07-20240530-102543-534.mp4",
+      "T": 241,
+      "score": 8.5145
+    },
+    {
+      "id": "P05-20240424-171038-83",
+      "participant": "P05",
+      "text": "pick up the bag of lemons with the right hand",
+      "data_url": "static/data/hdepic/P05-20240424-171038-83.json",
+      "rgb_url": "videos/hdepic/P05-20240424-171038-83.mp4",
+      "T": 184,
+      "score": 8.47
+    },
+    {
+      "id": "P08-20240614-085000-216",
+      "participant": "P08",
+      "text": "pick up spatula with the right hand",
+      "data_url": "static/data/hdepic/P08-20240614-085000-216.json",
+      "rgb_url": "videos/hdepic/P08-20240614-085000-216.mp4",
+      "T": 175,
+      "score": 8.4637
+    },
+    {
+      "id": "P09-20240621-153208-72",
+      "participant": "P09",
+      "text": "place the hibiscus flowers in the pan with the right hand",
+      "data_url": "static/data/hdepic/P09-20240621-153208-72.json",
+      "rgb_url": "videos/hdepic/P09-20240621-153208-72.mp4",
+      "T": 170,
+      "score": 8.4357
+    },
+    {
+      "id": "P07-20240529-191007-494",
+      "participant": "P07",
+      "text": "pick up the glass jar of rice with both hands.",
+      "data_url": "static/data/hdepic/P07-20240529-191007-494.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-494.mp4",
+      "T": 186,
+      "score": 8.3867
+    },
+    {
+      "id": "P04-20240414-065311-55",
+      "participant": "P04",
+      "text": "transfer the egg white into the box",
+      "data_url": "static/data/hdepic/P04-20240414-065311-55.json",
+      "rgb_url": "videos/hdepic/P04-20240414-065311-55.mp4",
+      "T": 262,
+      "score": 8.296
+    },
+    {
+      "id": "P01-20240203-130505-154",
+      "participant": "P01",
+      "text": "place both carrot ends on the countertop",
+      "data_url": "static/data/hdepic/P01-20240203-130505-154.json",
+      "rgb_url": "videos/hdepic/P01-20240203-130505-154.mp4",
+      "T": 150,
+      "score": 8.2769
+    },
+    {
+      "id": "P07-20240531-101357-415",
+      "participant": "P07",
+      "text": "lift the air fryer grille out of the sink with the left hand",
+      "data_url": "static/data/hdepic/P07-20240531-101357-415.json",
+      "rgb_url": "videos/hdepic/P07-20240531-101357-415.mp4",
+      "T": 163,
+      "score": 8.2768
+    },
+    {
+      "id": "P05-20240424-171038-317",
+      "participant": "P05",
+      "text": "put lettuce on the chopping board. chop lettuce with the right hand",
+      "data_url": "static/data/hdepic/P05-20240424-171038-317.json",
+      "rgb_url": "videos/hdepic/P05-20240424-171038-317.mp4",
+      "T": 222,
+      "score": 8.2559
+    },
+    {
+      "id": "P05-20240424-171038-358",
+      "participant": "P05",
+      "text": "pour peas and pasta into colander",
+      "data_url": "static/data/hdepic/P05-20240424-171038-358.json",
+      "rgb_url": "videos/hdepic/P05-20240424-171038-358.mp4",
+      "T": 149,
+      "score": 8.2364
+    },
+    {
+      "id": "P07-20240529-191007-465",
+      "participant": "P07",
+      "text": "pick up the wooden spatula and stir the onion and garlic",
+      "data_url": "static/data/hdepic/P07-20240529-191007-465.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-465.mp4",
+      "T": 169,
+      "score": 8.2345
+    },
+    {
+      "id": "P05-20240427-143353-22",
+      "participant": "P05",
+      "text": "pour rice into the sieve above the pan with both hands",
+      "data_url": "static/data/hdepic/P05-20240427-143353-22.json",
+      "rgb_url": "videos/hdepic/P05-20240427-143353-22.mp4",
+      "T": 255,
+      "score": 8.2316
+    },
+    {
+      "id": "P04-20240414-173337-373",
+      "participant": "P04",
+      "text": "transfer the broken dosa from the pan to the small plate",
+      "data_url": "static/data/hdepic/P04-20240414-173337-373.json",
+      "rgb_url": "videos/hdepic/P04-20240414-173337-373.mp4",
+      "T": 194,
+      "score": 8.2185
+    },
+    {
+      "id": "P01-20240203-121517-199",
+      "participant": "P01",
+      "text": "pour more flour into the glass in the bowl",
+      "data_url": "static/data/hdepic/P01-20240203-121517-199.json",
+      "rgb_url": "videos/hdepic/P01-20240203-121517-199.mp4",
+      "T": 190,
+      "score": 8.2169
+    },
+    {
+      "id": "P07-20240531-201703-525",
+      "participant": "P07",
+      "text": "place the chopping board in the sink",
+      "data_url": "static/data/hdepic/P07-20240531-201703-525.json",
+      "rgb_url": "videos/hdepic/P07-20240531-201703-525.mp4",
+      "T": 158,
+      "score": 8.2119
+    },
+    {
+      "id": "P02-20240211-175138-971",
+      "participant": "P02",
+      "text": "grab saucepan to keep it steady",
+      "data_url": "static/data/hdepic/P02-20240211-175138-971.json",
+      "rgb_url": "videos/hdepic/P02-20240211-175138-971.mp4",
+      "T": 182,
+      "score": 8.2098
+    },
+    {
+      "id": "P07-20240531-101357-695",
+      "participant": "P07",
+      "text": "pour boiling water into the right side of the sink",
+      "data_url": "static/data/hdepic/P07-20240531-101357-695.json",
+      "rgb_url": "videos/hdepic/P07-20240531-101357-695.mp4",
+      "T": 140,
+      "score": 8.1989
+    },
+    {
+      "id": "P07-20240531-201703-411",
+      "participant": "P07",
+      "text": "carry the sweet potato to the kitchen island",
+      "data_url": "static/data/hdepic/P07-20240531-201703-411.json",
+      "rgb_url": "videos/hdepic/P07-20240531-201703-411.mp4",
+      "T": 129,
+      "score": 8.1934
+    },
+    {
+      "id": "P07-20240529-191007-282",
+      "participant": "P07",
+      "text": "place the mushroom on the chopping board and cut it into thin slices with the knife using the right hand",
+      "data_url": "static/data/hdepic/P07-20240529-191007-282.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-282.mp4",
+      "T": 130,
+      "score": 8.1023
+    },
+    {
+      "id": "P02-20240211-141313-331",
+      "participant": "P02",
+      "text": "scoop the raspberry lemon curd mixture into the yoghurt pot with the tablespoon in the right hand",
+      "data_url": "static/data/hdepic/P02-20240211-141313-331.json",
+      "rgb_url": "videos/hdepic/P02-20240211-141313-331.mp4",
+      "T": 138,
+      "score": 8.0909
+    },
+    {
+      "id": "P05-20240425-173353-134",
+      "participant": "P05",
+      "text": "pour pasta into the colander",
+      "data_url": "static/data/hdepic/P05-20240425-173353-134.json",
+      "rgb_url": "videos/hdepic/P05-20240425-173353-134.mp4",
+      "T": 124,
+      "score": 8.052
+    },
+    {
+      "id": "P02-20240211-175138-533",
+      "participant": "P02",
+      "text": "pour out the mushrooms onto the baking tray with the large mixing bowl in the left hand",
+      "data_url": "static/data/hdepic/P02-20240211-175138-533.json",
+      "rgb_url": "videos/hdepic/P02-20240211-175138-533.mp4",
+      "T": 115,
+      "score": 8.0484
+    },
+    {
+      "id": "P03-20240218-144430-66",
+      "participant": "P03",
+      "text": "try to place colander into dishwasher bottom rack",
+      "data_url": "static/data/hdepic/P03-20240218-144430-66.json",
+      "rgb_url": "videos/hdepic/P03-20240218-144430-66.mp4",
+      "T": 134,
+      "score": 8.0442
+    },
+    {
+      "id": "P02-20240211-100250-73",
+      "participant": "P02",
+      "text": "place down the food bin to grab hold of the vacuum cleaner",
+      "data_url": "static/data/hdepic/P02-20240211-100250-73.json",
+      "rgb_url": "videos/hdepic/P02-20240211-100250-73.mp4",
+      "T": 123,
+      "score": 8.0352
+    },
+    {
+      "id": "P07-20240529-194518-546",
+      "participant": "P07",
+      "text": "bring the teaspoon to the mouth.",
+      "data_url": "static/data/hdepic/P07-20240529-194518-546.json",
+      "rgb_url": "videos/hdepic/P07-20240529-194518-546.mp4",
+      "T": 149,
+      "score": 7.9673
+    },
+    {
+      "id": "P03-20240216-084005-157",
+      "participant": "P03",
+      "text": "put down the coffee beans bag on the kitchen top",
+      "data_url": "static/data/hdepic/P03-20240216-084005-157.json",
+      "rgb_url": "videos/hdepic/P03-20240216-084005-157.mp4",
+      "T": 118,
+      "score": 7.936
+    },
+    {
+      "id": "P07-20240531-201703-177",
+      "participant": "P07",
+      "text": "place the avocado on the wooden chopping board and cut it in half with the serrated knife",
+      "data_url": "static/data/hdepic/P07-20240531-201703-177.json",
+      "rgb_url": "videos/hdepic/P07-20240531-201703-177.mp4",
+      "T": 135,
+      "score": 7.7595
+    },
+    {
+      "id": "P05-20240424-171038-238",
+      "participant": "P05",
+      "text": "pick up the pestle and mortar",
+      "data_url": "static/data/hdepic/P05-20240424-171038-238.json",
+      "rgb_url": "videos/hdepic/P05-20240424-171038-238.mp4",
+      "T": 101,
+      "score": 7.7571
+    },
+    {
+      "id": "P02-20240211-175138-952",
+      "participant": "P02",
+      "text": "place the wrapper on the countertop with the left hand",
+      "data_url": "static/data/hdepic/P02-20240211-175138-952.json",
+      "rgb_url": "videos/hdepic/P02-20240211-175138-952.mp4",
+      "T": 147,
+      "score": 7.7389
+    },
+    {
+      "id": "P07-20240531-201703-400",
+      "participant": "P07",
+      "text": "pick up the lid of the canister and scrape the sauce off into the blue bowl",
+      "data_url": "static/data/hdepic/P07-20240531-201703-400.json",
+      "rgb_url": "videos/hdepic/P07-20240531-201703-400.mp4",
+      "T": 124,
+      "score": 7.7237
+    },
+    {
+      "id": "P05-20240424-171038-164",
+      "participant": "P05",
+      "text": "pick up the cashew nut bag and weigh cashew nuts in the mortar on the scales",
+      "data_url": "static/data/hdepic/P05-20240424-171038-164.json",
+      "rgb_url": "videos/hdepic/P05-20240424-171038-164.mp4",
+      "T": 108,
+      "score": 7.6954
+    },
+    {
+      "id": "P06-20240510-100047-173",
+      "participant": "P06",
+      "text": "tilt the cup to pour milk into another cup",
+      "data_url": "static/data/hdepic/P06-20240510-100047-173.json",
+      "rgb_url": "videos/hdepic/P06-20240510-100047-173.mp4",
+      "T": 104,
+      "score": 7.6888
+    },
+    {
+      "id": "P02-20240211-120927-912",
+      "participant": "P02",
+      "text": "scoop up the mixture with the tablespoon in the right hand",
+      "data_url": "static/data/hdepic/P02-20240211-120927-912.json",
+      "rgb_url": "videos/hdepic/P02-20240211-120927-912.mp4",
+      "T": 102,
+      "score": 7.6825
+    },
+    {
+      "id": "P07-20240530-102543-408",
+      "participant": "P07",
+      "text": "pick up the scrubbing brush from the sink. clean the baking tray",
+      "data_url": "static/data/hdepic/P07-20240530-102543-408.json",
+      "rgb_url": "videos/hdepic/P07-20240530-102543-408.mp4",
+      "T": 108,
+      "score": 7.6784
+    },
+    {
+      "id": "P07-20240529-191007-291",
+      "participant": "P07",
+      "text": "place the mushroom on the chopping board and chop it into thin slices with the knife using the right hand",
+      "data_url": "static/data/hdepic/P07-20240529-191007-291.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-291.mp4",
+      "T": 131,
+      "score": 7.6637
+    },
+    {
+      "id": "P02-20240209-184316-1147",
+      "participant": "P02",
+      "text": "scoop some of the remaining food onto the plate",
+      "data_url": "static/data/hdepic/P02-20240209-184316-1147.json",
+      "rgb_url": "videos/hdepic/P02-20240209-184316-1147.mp4",
+      "T": 135,
+      "score": 7.6296
+    },
+    {
+      "id": "P07-20240531-201703-133",
+      "participant": "P07",
+      "text": "put the tray down on the wooden chopping board",
+      "data_url": "static/data/hdepic/P07-20240531-201703-133.json",
+      "rgb_url": "videos/hdepic/P07-20240531-201703-133.mp4",
+      "T": 132,
+      "score": 7.6267
+    },
+    {
+      "id": "P06-20240510-090328-553",
+      "participant": "P06",
+      "text": "tilt the bowl to pour the batter into the frying pan with the left hand",
+      "data_url": "static/data/hdepic/P06-20240510-090328-553.json",
+      "rgb_url": "videos/hdepic/P06-20240510-090328-553.mp4",
+      "T": 142,
+      "score": 7.622
+    },
+    {
+      "id": "P02-20240211-141313-707",
+      "participant": "P02",
+      "text": "place the tupperware container on the second shelf of the fridge",
+      "data_url": "static/data/hdepic/P02-20240211-141313-707.json",
+      "rgb_url": "videos/hdepic/P02-20240211-141313-707.mp4",
+      "T": 119,
+      "score": 7.6063
+    },
+    {
+      "id": "P04-20240414-173337-309",
+      "participant": "P04",
+      "text": "transfer the bits of dosa from the pan to the small plate by scraping it with the spatula",
+      "data_url": "static/data/hdepic/P04-20240414-173337-309.json",
+      "rgb_url": "videos/hdepic/P04-20240414-173337-309.mp4",
+      "T": 138,
+      "score": 7.6015
+    },
+    {
+      "id": "P02-20240211-141313-674",
+      "participant": "P02",
+      "text": "put the cardboard insert into the box using both hands",
+      "data_url": "static/data/hdepic/P02-20240211-141313-674.json",
+      "rgb_url": "videos/hdepic/P02-20240211-141313-674.mp4",
+      "T": 127,
+      "score": 7.5979
+    },
+    {
+      "id": "P02-20240209-194141-293",
+      "participant": "P02",
+      "text": "push and scrape food and dirt from the hob with the sponge in the right hand. place the food bin against the countertop with the left hand",
+      "data_url": "static/data/hdepic/P02-20240209-194141-293.json",
+      "rgb_url": "videos/hdepic/P02-20240209-194141-293.mp4",
+      "T": 118,
+      "score": 7.5547
+    },
+    {
+      "id": "P06-20240510-090328-382",
+      "participant": "P06",
+      "text": "pour the pancake batter into the frying pan with the spoon in the right hand. hold the bowl in the left hand",
+      "data_url": "static/data/hdepic/P06-20240510-090328-382.json",
+      "rgb_url": "videos/hdepic/P06-20240510-090328-382.mp4",
+      "T": 119,
+      "score": 7.5521
+    },
+    {
+      "id": "P09-20240622-150155-923",
+      "participant": "P09",
+      "text": "place shredded chicken in the green bowl with forks",
+      "data_url": "static/data/hdepic/P09-20240622-150155-923.json",
+      "rgb_url": "videos/hdepic/P09-20240622-150155-923.mp4",
+      "T": 122,
+      "score": 7.5495
+    },
+    {
+      "id": "P06-20240510-090328-384",
+      "participant": "P06",
+      "text": "pour the remaining batter from the bowl into the frying pan with the spoon in the right hand",
+      "data_url": "static/data/hdepic/P06-20240510-090328-384.json",
+      "rgb_url": "videos/hdepic/P06-20240510-090328-384.mp4",
+      "T": 135,
+      "score": 7.5493
+    },
+    {
+      "id": "P07-20240529-191007-457",
+      "participant": "P07",
+      "text": "pick up the wooden spatula. stir the minced garlic in the frying pan",
+      "data_url": "static/data/hdepic/P07-20240529-191007-457.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-457.mp4",
+      "T": 112,
+      "score": 7.5362
+    },
+    {
+      "id": "P07-20240529-191007-252",
+      "participant": "P07",
+      "text": "place the mushroom on the chopping board. slice it with the knife in the right hand",
+      "data_url": "static/data/hdepic/P07-20240529-191007-252.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-252.mp4",
+      "T": 129,
+      "score": 7.535
+    },
+    {
+      "id": "P05-20240426-085333-21",
+      "participant": "P05",
+      "text": "pour porridge into bowl on scales with both hands",
+      "data_url": "static/data/hdepic/P05-20240426-085333-21.json",
+      "rgb_url": "videos/hdepic/P05-20240426-085333-21.mp4",
+      "T": 148,
+      "score": 7.5247
+    },
+    {
+      "id": "P07-20240529-191007-286",
+      "participant": "P07",
+      "text": "place the mushroom on the chopping board and cut it into thin slices with the knife using the right hand",
+      "data_url": "static/data/hdepic/P07-20240529-191007-286.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-286.mp4",
+      "T": 122,
+      "score": 7.5207
+    },
+    {
+      "id": "P05-20240425-201444-536",
+      "participant": "P05",
+      "text": "pull out a shelf with chocolate puddings using the oven glove",
+      "data_url": "static/data/hdepic/P05-20240425-201444-536.json",
+      "rgb_url": "videos/hdepic/P05-20240425-201444-536.mp4",
+      "T": 120,
+      "score": 7.483
+    },
+    {
+      "id": "P06-20240510-100047-262",
+      "participant": "P06",
+      "text": "place the chopping board in the crockery tray with my right hand",
+      "data_url": "static/data/hdepic/P06-20240510-100047-262.json",
+      "rgb_url": "videos/hdepic/P06-20240510-100047-262.mp4",
+      "T": 115,
+      "score": 7.463
+    },
+    {
+      "id": "P04-20240414-173337-46",
+      "participant": "P04",
+      "text": "put down the rag on the countertop",
+      "data_url": "static/data/hdepic/P04-20240414-173337-46.json",
+      "rgb_url": "videos/hdepic/P04-20240414-173337-46.mp4",
+      "T": 124,
+      "score": 7.4205
+    },
+    {
+      "id": "P05-20240424-175101-176",
+      "participant": "P05",
+      "text": "place the bowl of pasta on the second drawer of the fridge",
+      "data_url": "static/data/hdepic/P05-20240424-175101-176.json",
+      "rgb_url": "videos/hdepic/P05-20240424-175101-176.mp4",
+      "T": 110,
+      "score": 7.388
+    },
+    {
+      "id": "P04-20240414-173337-298",
+      "participant": "P04",
+      "text": "continue trying to pick up the broken dosa with the spatula.",
+      "data_url": "static/data/hdepic/P04-20240414-173337-298.json",
+      "rgb_url": "videos/hdepic/P04-20240414-173337-298.mp4",
+      "T": 132,
+      "score": 7.3814
+    },
+    {
+      "id": "P06-20240510-100047-16",
+      "participant": "P06",
+      "text": "open the water tap with the right hand to fill the electric kettle in the left hand",
+      "data_url": "static/data/hdepic/P06-20240510-100047-16.json",
+      "rgb_url": "videos/hdepic/P06-20240510-100047-16.mp4",
+      "T": 140,
+      "score": 7.3811
+    },
+    {
+      "id": "P03-20240218-144430-396",
+      "participant": "P03",
+      "text": "pour water from the kettle into the V60 coffee filter",
+      "data_url": "static/data/hdepic/P03-20240218-144430-396.json",
+      "rgb_url": "videos/hdepic/P03-20240218-144430-396.mp4",
+      "T": 148,
+      "score": 7.3773
+    },
+    {
+      "id": "P03-20240216-185832-1127",
+      "participant": "P03",
+      "text": "pick up the eggshell fragment with the right hand and throw it into the sink",
+      "data_url": "static/data/hdepic/P03-20240216-185832-1127.json",
+      "rgb_url": "videos/hdepic/P03-20240216-185832-1127.mp4",
+      "T": 118,
+      "score": 7.3647
+    },
+    {
+      "id": "P07-20240529-191007-135",
+      "participant": "P07",
+      "text": "pick up kettle with left hand. pour boiling water into glass jug with right hand",
+      "data_url": "static/data/hdepic/P07-20240529-191007-135.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-135.mp4",
+      "T": 104,
+      "score": 7.3646
+    },
+    {
+      "id": "P02-20240211-120927-906",
+      "participant": "P02",
+      "text": "scoop up the mixture with the tablespoon in the right hand",
+      "data_url": "static/data/hdepic/P02-20240211-120927-906.json",
+      "rgb_url": "videos/hdepic/P02-20240211-120927-906.mp4",
+      "T": 99,
+      "score": 7.3389
+    },
+    {
+      "id": "P03-20240218-144430-408",
+      "participant": "P03",
+      "text": "pour water from the kettle into the V60 coffee filter.",
+      "data_url": "static/data/hdepic/P03-20240218-144430-408.json",
+      "rgb_url": "videos/hdepic/P03-20240218-144430-408.mp4",
+      "T": 140,
+      "score": 7.3353
+    },
+    {
+      "id": "P05-20240425-083515-39",
+      "participant": "P05",
+      "text": "pour raisins into the porridge",
+      "data_url": "static/data/hdepic/P05-20240425-083515-39.json",
+      "rgb_url": "videos/hdepic/P05-20240425-083515-39.mp4",
+      "T": 111,
+      "score": 7.3308
+    },
+    {
+      "id": "P02-20240211-120927-909",
+      "participant": "P02",
+      "text": "scoop up the mixture with the tablespoon in the right hand",
+      "data_url": "static/data/hdepic/P02-20240211-120927-909.json",
+      "rgb_url": "videos/hdepic/P02-20240211-120927-909.mp4",
+      "T": 103,
+      "score": 7.3083
+    },
+    {
+      "id": "P02-20240211-120927-1231",
+      "participant": "P02",
+      "text": "put the cheese block back into the packaging",
+      "data_url": "static/data/hdepic/P02-20240211-120927-1231.json",
+      "rgb_url": "videos/hdepic/P02-20240211-120927-1231.mp4",
+      "T": 113,
+      "score": 7.2734
+    },
+    {
+      "id": "P01-20240203-123350-75",
+      "participant": "P01",
+      "text": "gather the dough with my right hand to pick it up from the bigger bowl",
+      "data_url": "static/data/hdepic/P01-20240203-123350-75.json",
+      "rgb_url": "videos/hdepic/P01-20240203-123350-75.mp4",
+      "T": 108,
+      "score": 7.272
+    },
+    {
+      "id": "P03-20240218-144430-377",
+      "participant": "P03",
+      "text": "pour water from the kettle into the V60 coffee filter",
+      "data_url": "static/data/hdepic/P03-20240218-144430-377.json",
+      "rgb_url": "videos/hdepic/P03-20240218-144430-377.mp4",
+      "T": 140,
+      "score": 7.2636
+    },
+    {
+      "id": "P07-20240529-191007-309",
+      "participant": "P07",
+      "text": "put down the pen and peel open the plastic packaging",
+      "data_url": "static/data/hdepic/P07-20240529-191007-309.json",
+      "rgb_url": "videos/hdepic/P07-20240529-191007-309.mp4",
+      "T": 121,
+      "score": 7.2622
+    },
+    {
+      "id": "P02-20240211-175138-370",
+      "participant": "P02",
+      "text": "pick up the lemon seeds from the mixing bowl with the right hand",
+      "data_url": "static/data/hdepic/P02-20240211-175138-370.json",
+      "rgb_url": "videos/hdepic/P02-20240211-175138-370.mp4",
+      "T": 122,
+      "score": 7.2555
+    },
+    {
+      "id": "P04-20240414-162750-91",
+      "participant": "P04",
+      "text": "stretch the rubber band with the right hand. put it back on the twigs of coriander leaves",
+      "data_url": "static/data/hdepic/P04-20240414-162750-91.json",
+      "rgb_url": "videos/hdepic/P04-20240414-162750-91.mp4",
+      "T": 140,
+      "score": 7.1993
+    },
+    {
+      "id": "P02-20240211-111822-895",
+      "participant": "P02",
+      "text": "scoop out the rest of the raspberry and lemon puree using the large plastic spoon in the right hand",
+      "data_url": "static/data/hdepic/P02-20240211-111822-895.json",
+      "rgb_url": "videos/hdepic/P02-20240211-111822-895.mp4",
+      "T": 99,
+      "score": 7.196
+    },
+    {
+      "id": "P03-20240216-090759-240",
+      "participant": "P03",
+      "text": "grab a stack of recipe cards from the table",
+      "data_url": "static/data/hdepic/P03-20240216-090759-240.json",
+      "rgb_url": "videos/hdepic/P03-20240216-090759-240.mp4",
+      "T": 106,
+      "score": 7.1852
+    },
+    {
+      "id": "P07-20240530-102543-152",
+      "participant": "P07",
+      "text": "tip the packet of sugar. pour sugar into the large silver bowl",
+      "data_url": "static/data/hdepic/P07-20240530-102543-152.json",
+      "rgb_url": "videos/hdepic/P07-20240530-102543-152.mp4",
+      "T": 124,
+      "score": 7.1811
+    },
+    {
+      "id": "P08-20240614-085000-1",
+      "participant": "P08",
+      "text": "put phone down on kitchen counter with the right hand",
+      "data_url": "static/data/hdepic/P08-20240614-085000-1.json",
+      "rgb_url": "videos/hdepic/P08-20240614-085000-1.mp4",
+      "T": 96,
+      "score": 7.1803
+    },
+    {
+      "id": "P07-20240529-194518-492",
+      "participant": "P07",
+      "text": "use the left hand to pull the parsley into a pile. chop using the knife in the right hand",
+      "data_url": "static/data/hdepic/P07-20240529-194518-492.json",
+      "rgb_url": "videos/hdepic/P07-20240529-194518-492.mp4",
+      "T": 125,
+      "score": 7.1802
+    },
+    {
+      "id": "P07-20240531-201703-356",
+      "participant": "P07",
+      "text": "transfer the tin to the left hand and scoop the beans with the spoon",
+      "data_url": "static/data/hdepic/P07-20240531-201703-356.json",
+      "rgb_url": "videos/hdepic/P07-20240531-201703-356.mp4",
+      "T": 101,
+      "score": 7.1664
+    },
+    {
+      "id": "P05-20240424-171038-302",
+      "participant": "P05",
+      "text": "pick up the teaspoon and stir salt and pepper into pesto",
+      "data_url": "static/data/hdepic/P05-20240424-171038-302.json",
+      "rgb_url": "videos/hdepic/P05-20240424-171038-302.mp4",
+      "T": 114,
+      "score": 7.148
+    },
+    {
+      "id": "P07-20240529-194518-93",
+      "participant": "P07",
+      "text": "transfer the spatula to the left hand. continue to stir the contents of the pan",
+      "data_url": "static/data/hdepic/P07-20240529-194518-93.json",
+      "rgb_url": "videos/hdepic/P07-20240529-194518-93.mp4",
+      "T": 114,
+      "score": 7.147
+    },
+    {
+      "id": "P03-20240216-185832-853",
+      "participant": "P03",
+      "text": "put down the lid of the milk carton on the countertop with the left hand",
+      "data_url": "static/data/hdepic/P03-20240216-185832-853.json",
+      "rgb_url": "videos/hdepic/P03-20240216-185832-853.mp4",
+      "T": 94,
+      "score": 7.1442
+    },
+    {
       "id": "P06-20240510-100047-126",
       "participant": "P06",
       "text": "mix the ingredients in the cup with the spoon in the right hand",
@@ -217,15 +1297,6 @@
       "score": 11.0455
     },
     {
-      "id": "P09-20240622-150155-851",
-      "participant": "P09",
-      "text": "move chicken from the saucepan in the left hand onto the chopping board with the fork in the right hand",
-      "data_url": "static/data/hdepic/P09-20240622-150155-851.json",
-      "rgb_url": "videos/hdepic/P09-20240622-150155-851.mp4",
-      "T": 529,
-      "score": 11.0367
-    },
-    {
       "id": "P01-20240204-145458-125",
       "participant": "P01",
       "text": "stir the vermicelli in the pot with the wooden spoon",
@@ -388,15 +1459,6 @@
       "score": 10.4656
     },
     {
-      "id": "P04-20240414-170520-222",
-      "participant": "P04",
-      "text": "use the spoon in the right hand to scrape off the mashed potatoes from the masher",
-      "data_url": "static/data/hdepic/P04-20240414-170520-222.json",
-      "rgb_url": "videos/hdepic/P04-20240414-170520-222.mp4",
-      "T": 500,
-      "score": 10.4624
-    },
-    {
       "id": "P04-20240414-162750-402",
       "participant": "P04",
       "text": "cut the coriander leaves into finer pieces with the knife",
@@ -467,15 +1529,6 @@
       "rgb_url": "videos/hdepic/P01-20240203-135502-199.mp4",
       "T": 368,
       "score": 10.3534
-    },
-    {
-      "id": "P07-20240530-102543-287",
-      "participant": "P07",
-      "text": "pick up the fork from the bowl and stir the ingredients",
-      "data_url": "static/data/hdepic/P07-20240530-102543-287.json",
-      "rgb_url": "videos/hdepic/P07-20240530-102543-287.mp4",
-      "T": 424,
-      "score": 10.3455
     },
     {
       "id": "P01-20240203-123350-31",
@@ -685,15 +1738,6 @@
       "score": 10.0762
     },
     {
-      "id": "P03-20240216-185832-926",
-      "participant": "P03",
-      "text": "pour water into the mixture with the cup",
-      "data_url": "static/data/hdepic/P03-20240216-185832-926.json",
-      "rgb_url": "videos/hdepic/P03-20240216-185832-926.mp4",
-      "T": 372,
-      "score": 10.0462
-    },
-    {
       "id": "P01-20240203-135502-710",
       "participant": "P01",
       "text": "move the blender around the soup without switching off",
@@ -802,15 +1846,6 @@
       "score": 9.9067
     },
     {
-      "id": "P09-20240622-150155-968",
-      "participant": "P09",
-      "text": "place the bowl of shredded chicken on the counter with the left hand",
-      "data_url": "static/data/hdepic/P09-20240622-150155-968.json",
-      "rgb_url": "videos/hdepic/P09-20240622-150155-968.mp4",
-      "T": 279,
-      "score": 9.9045
-    },
-    {
       "id": "P06-20240510-090328-207",
       "participant": "P06",
       "text": "write on the notebook with the pen in the right hand",
@@ -827,15 +1862,6 @@
       "rgb_url": "videos/hdepic/P01-20240202-161948-88.mp4",
       "T": 431,
       "score": 9.8958
-    },
-    {
-      "id": "P04-20240414-065311-402",
-      "participant": "P04",
-      "text": "grab one packet of puff pastry with my left hand",
-      "data_url": "static/data/hdepic/P04-20240414-065311-402.json",
-      "rgb_url": "videos/hdepic/P04-20240414-065311-402.mp4",
-      "T": 390,
-      "score": 9.8764
     },
     {
       "id": "P05-20240424-171038-81",
@@ -874,15 +1900,6 @@
       "score": 9.8505
     },
     {
-      "id": "P07-20240529-191007-373",
-      "participant": "P07",
-      "text": "pour the contents of the jug into the colander",
-      "data_url": "static/data/hdepic/P07-20240529-191007-373.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-373.mp4",
-      "T": 319,
-      "score": 9.8461
-    },
-    {
       "id": "P09-20240621-153208-127",
       "participant": "P09",
       "text": "peel the sticker off the plastic bottle with my left hand",
@@ -890,15 +1907,6 @@
       "rgb_url": "videos/hdepic/P09-20240621-153208-127.mp4",
       "T": 346,
       "score": 9.8373
-    },
-    {
-      "id": "P07-20240530-102543-535",
-      "participant": "P07",
-      "text": "scoop up cookie dough with both spoons. transfer cookie dough from one spoon to the other repeatedly. place the round ball of cookie dough onto the baking tray.",
-      "data_url": "static/data/hdepic/P07-20240530-102543-535.json",
-      "rgb_url": "videos/hdepic/P07-20240530-102543-535.mp4",
-      "T": 335,
-      "score": 9.8231
     },
     {
       "id": "P01-20240203-123350-24",
@@ -1052,24 +2060,6 @@
       "rgb_url": "videos/hdepic/P02-20240211-175138-528.mp4",
       "T": 328,
       "score": 9.7242
-    },
-    {
-      "id": "P06-20240510-090328-436",
-      "participant": "P06",
-      "text": "place the vegetables on the pancake with the right hand while holding the plate in the left hand",
-      "data_url": "static/data/hdepic/P06-20240510-090328-436.json",
-      "rgb_url": "videos/hdepic/P06-20240510-090328-436.mp4",
-      "T": 312,
-      "score": 9.7134
-    },
-    {
-      "id": "P03-20240216-185832-830",
-      "participant": "P03",
-      "text": "tilt the flour bag above the bowl to pour flour",
-      "data_url": "static/data/hdepic/P03-20240216-185832-830.json",
-      "rgb_url": "videos/hdepic/P03-20240216-185832-830.mp4",
-      "T": 347,
-      "score": 9.7116
     },
     {
       "id": "P02-20240209-184316-955",
@@ -1243,15 +2233,6 @@
       "score": 9.5414
     },
     {
-      "id": "P07-20240530-102543-548",
-      "participant": "P07",
-      "text": "pick up a scoop of cookie dough with both spoons. scrape it from one spoon to the other repeatedly. place this ball of cookie dough onto the baking tray.",
-      "data_url": "static/data/hdepic/P07-20240530-102543-548.json",
-      "rgb_url": "videos/hdepic/P07-20240530-102543-548.mp4",
-      "T": 288,
-      "score": 9.535
-    },
-    {
       "id": "P05-20240427-145526-142",
       "participant": "P05",
       "text": "stir the peanut butter and sriracha into the rest of the cooking with the spatula in the right hand",
@@ -1295,15 +2276,6 @@
       "rgb_url": "videos/hdepic/P06-20240510-090328-140.mp4",
       "T": 303,
       "score": 9.4988
-    },
-    {
-      "id": "P07-20240529-194518-23",
-      "participant": "P07",
-      "text": "pick up the wooden spatula and stir the mushrooms",
-      "data_url": "static/data/hdepic/P07-20240529-194518-23.json",
-      "rgb_url": "videos/hdepic/P07-20240529-194518-23.mp4",
-      "T": 269,
-      "score": 9.4965
     },
     {
       "id": "P01-20240203-123350-248",
@@ -1369,15 +2341,6 @@
       "score": 9.4633
     },
     {
-      "id": "P07-20240529-191007-503",
-      "participant": "P07",
-      "text": "pick up the wooden spatula with the right hand",
-      "data_url": "static/data/hdepic/P07-20240529-191007-503.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-503.mp4",
-      "T": 284,
-      "score": 9.4559
-    },
-    {
       "id": "P06-20240510-090328-502",
       "participant": "P06",
       "text": "press the surface of the pancake with the spatula in the right hand",
@@ -1432,15 +2395,6 @@
       "score": 9.4118
     },
     {
-      "id": "P09-20240622-150155-1004",
-      "participant": "P09",
-      "text": "scoop out boiled potatoes from the saucepan using the fork in my right hand",
-      "data_url": "static/data/hdepic/P09-20240622-150155-1004.json",
-      "rgb_url": "videos/hdepic/P09-20240622-150155-1004.mp4",
-      "T": 261,
-      "score": 9.3962
-    },
-    {
       "id": "P03-20240218-140054-94",
       "participant": "P03",
       "text": "fill the water filter and tank with tap water",
@@ -1468,15 +2422,6 @@
       "score": 9.3772
     },
     {
-      "id": "P01-20240202-161948-95",
-      "participant": "P01",
-      "text": "hit the cheese block on the grater to drop cheese onto the plate",
-      "data_url": "static/data/hdepic/P01-20240202-161948-95.json",
-      "rgb_url": "videos/hdepic/P01-20240202-161948-95.mp4",
-      "T": 311,
-      "score": 9.3752
-    },
-    {
       "id": "P01-20240203-123350-273",
       "participant": "P01",
       "text": "continue stirring the content of the pan with the wooden spoon",
@@ -1493,15 +2438,6 @@
       "rgb_url": "videos/hdepic/P07-20240530-102543-318.mp4",
       "T": 299,
       "score": 9.3699
-    },
-    {
-      "id": "P04-20240414-175337-74",
-      "participant": "P04",
-      "text": "pick up the dosa with the spatula in the right hand",
-      "data_url": "static/data/hdepic/P04-20240414-175337-74.json",
-      "rgb_url": "videos/hdepic/P04-20240414-175337-74.mp4",
-      "T": 303,
-      "score": 9.3668
     },
     {
       "id": "P01-20240204-145458-474",
@@ -1612,15 +2548,6 @@
       "score": 9.2702
     },
     {
-      "id": "P07-20240531-201703-42",
-      "participant": "P07",
-      "text": "place the half sweet potato flat side down. trim off the skin with the knife",
-      "data_url": "static/data/hdepic/P07-20240531-201703-42.json",
-      "rgb_url": "videos/hdepic/P07-20240531-201703-42.mp4",
-      "T": 288,
-      "score": 9.2674
-    },
-    {
       "id": "P02-20240211-100250-35",
       "participant": "P02",
       "text": "clean the mat in the center of the kitchen with the vacuum cleaner in the right hand",
@@ -1648,24 +2575,6 @@
       "score": 9.2352
     },
     {
-      "id": "P02-20240211-111822-606",
-      "participant": "P02",
-      "text": "try and pick up the eggshell from the mixture with the right hand",
-      "data_url": "static/data/hdepic/P02-20240211-111822-606.json",
-      "rgb_url": "videos/hdepic/P02-20240211-111822-606.mp4",
-      "T": 186,
-      "score": 9.2321
-    },
-    {
-      "id": "P01-20240204-121042-465",
-      "participant": "P01",
-      "text": "put the tray inside the sink with the left hand",
-      "data_url": "static/data/hdepic/P01-20240204-121042-465.json",
-      "rgb_url": "videos/hdepic/P01-20240204-121042-465.mp4",
-      "T": 252,
-      "score": 9.2177
-    },
-    {
       "id": "P01-20240203-135502-281",
       "participant": "P01",
       "text": "mix the content of the bowl with my hands",
@@ -1691,15 +2600,6 @@
       "rgb_url": "videos/hdepic/P01-20240203-135502-827.mp4",
       "T": 222,
       "score": 9.1965
-    },
-    {
-      "id": "P05-20240425-173353-122",
-      "participant": "P05",
-      "text": "place the bowl down on the counter with the left hand",
-      "data_url": "static/data/hdepic/P05-20240425-173353-122.json",
-      "rgb_url": "videos/hdepic/P05-20240425-173353-122.mp4",
-      "T": 252,
-      "score": 9.1925
     },
     {
       "id": "P04-20240414-072251-74",
@@ -1783,15 +2683,6 @@
       "score": 9.1591
     },
     {
-      "id": "P08-20240614-085000-211",
-      "participant": "P08",
-      "text": "pick up the spatula with the right hand. mix eggs in the pan. hold the pan steady with the left hand",
-      "data_url": "static/data/hdepic/P08-20240614-085000-211.json",
-      "rgb_url": "videos/hdepic/P08-20240614-085000-211.mp4",
-      "T": 262,
-      "score": 9.1572
-    },
-    {
       "id": "P07-20240531-101357-413",
       "participant": "P07",
       "text": "dip the scrubbing brush in soapy water and scrub the grille",
@@ -1808,15 +2699,6 @@
       "rgb_url": "videos/hdepic/P01-20240204-121042-444.mp4",
       "T": 238,
       "score": 9.1471
-    },
-    {
-      "id": "P05-20240425-173353-232",
-      "participant": "P05",
-      "text": "use a serving spoon with the right hand to transfer carbonara to the empty plate in the left hand",
-      "data_url": "static/data/hdepic/P05-20240425-173353-232.json",
-      "rgb_url": "videos/hdepic/P05-20240425-173353-232.mp4",
-      "T": 269,
-      "score": 9.1388
     },
     {
       "id": "P04-20240414-065311-274",
@@ -1943,15 +2825,6 @@
       "rgb_url": "videos/hdepic/P01-20240204-142301-234.mp4",
       "T": 223,
       "score": 9.0063
-    },
-    {
-      "id": "P07-20240530-102543-317",
-      "participant": "P07",
-      "text": "pick up the fork with the right hand. hold the silver bowl with the left hand",
-      "data_url": "static/data/hdepic/P07-20240530-102543-317.json",
-      "rgb_url": "videos/hdepic/P07-20240530-102543-317.mp4",
-      "T": 245,
-      "score": 9.0043
     },
     {
       "id": "P01-20240203-135502-267",
@@ -2089,15 +2962,6 @@
       "score": 8.9352
     },
     {
-      "id": "P05-20240425-171455-251",
-      "participant": "P05",
-      "text": "pour water from the kettle into the pan with the right hand",
-      "data_url": "static/data/hdepic/P05-20240425-171455-251.json",
-      "rgb_url": "videos/hdepic/P05-20240425-171455-251.mp4",
-      "T": 188,
-      "score": 8.9303
-    },
-    {
       "id": "P07-20240531-101357-521",
       "participant": "P07",
       "text": "wipe the kitchen island with the dishcloth",
@@ -2179,15 +3043,6 @@
       "score": 8.8963
     },
     {
-      "id": "P07-20240530-102543-291",
-      "participant": "P07",
-      "text": "switch the fork from the left hand to the right hand and pick up the bowl with the left arm",
-      "data_url": "static/data/hdepic/P07-20240530-102543-291.json",
-      "rgb_url": "videos/hdepic/P07-20240530-102543-291.mp4",
-      "T": 202,
-      "score": 8.8962
-    },
-    {
       "id": "P01-20240203-130505-59",
       "participant": "P01",
       "text": "slice the onion horizontally with the knife",
@@ -2213,33 +3068,6 @@
       "rgb_url": "videos/hdepic/P07-20240531-101357-277.mp4",
       "T": 245,
       "score": 8.8747
-    },
-    {
-      "id": "P04-20240413-142619-512",
-      "participant": "P04",
-      "text": "scoop out the inner parts of the tomato with the knife",
-      "data_url": "static/data/hdepic/P04-20240413-142619-512.json",
-      "rgb_url": "videos/hdepic/P04-20240413-142619-512.mp4",
-      "T": 230,
-      "score": 8.8693
-    },
-    {
-      "id": "P07-20240529-194518-74",
-      "participant": "P07",
-      "text": "transfer the spatula to the right hand",
-      "data_url": "static/data/hdepic/P07-20240529-194518-74.json",
-      "rgb_url": "videos/hdepic/P07-20240529-194518-74.mp4",
-      "T": 234,
-      "score": 8.8631
-    },
-    {
-      "id": "P05-20240424-175101-152",
-      "participant": "P05",
-      "text": "pick up the washing up brush with the right hand. scrub the mortar.",
-      "data_url": "static/data/hdepic/P05-20240424-175101-152.json",
-      "rgb_url": "videos/hdepic/P05-20240424-175101-152.mp4",
-      "T": 284,
-      "score": 8.8624
     },
     {
       "id": "P08-20240614-085000-35",
@@ -2341,24 +3169,6 @@
       "score": 8.8158
     },
     {
-      "id": "P07-20240529-191007-138",
-      "participant": "P07",
-      "text": "pour more water into glass jug",
-      "data_url": "static/data/hdepic/P07-20240529-191007-138.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-138.mp4",
-      "T": 236,
-      "score": 8.8153
-    },
-    {
-      "id": "P07-20240529-191007-203",
-      "participant": "P07",
-      "text": "pick up the onion skins from the back of the work surface. place them into the left hand",
-      "data_url": "static/data/hdepic/P07-20240529-191007-203.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-203.mp4",
-      "T": 202,
-      "score": 8.8145
-    },
-    {
       "id": "P03-20240216-185832-346",
       "participant": "P03",
       "text": "continue washing the frying pan with the sponge in the right hand",
@@ -2411,15 +3221,6 @@
       "rgb_url": "videos/hdepic/P04-20240414-173337-45.mp4",
       "T": 196,
       "score": 8.7816
-    },
-    {
-      "id": "P07-20240529-191007-547",
-      "participant": "P07",
-      "text": "pick up the wooden spatula with the right hand and pour the mushrooms into the frying pan",
-      "data_url": "static/data/hdepic/P07-20240529-191007-547.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-547.mp4",
-      "T": 245,
-      "score": 8.7808
     },
     {
       "id": "P05-20240424-171038-333",
@@ -2512,15 +3313,6 @@
       "score": 8.7299
     },
     {
-      "id": "P05-20240424-171038-369",
-      "participant": "P05",
-      "text": "pick up bigger spoon from counter with the right hand",
-      "data_url": "static/data/hdepic/P05-20240424-171038-369.json",
-      "rgb_url": "videos/hdepic/P05-20240424-171038-369.mp4",
-      "T": 287,
-      "score": 8.7284
-    },
-    {
       "id": "P09-20240622-150155-919",
       "participant": "P09",
       "text": "shred a slice of chicken on the board with forks",
@@ -2602,24 +3394,6 @@
       "score": 8.6815
     },
     {
-      "id": "P04-20240414-175337-172",
-      "participant": "P04",
-      "text": "pick up the dosa by sliding the spatula under it.",
-      "data_url": "static/data/hdepic/P04-20240414-175337-172.json",
-      "rgb_url": "videos/hdepic/P04-20240414-175337-172.mp4",
-      "T": 269,
-      "score": 8.6735
-    },
-    {
-      "id": "P04-20240413-142619-217",
-      "participant": "P04",
-      "text": "reach into the condiment jar with the spoon in the left hand",
-      "data_url": "static/data/hdepic/P04-20240413-142619-217.json",
-      "rgb_url": "videos/hdepic/P04-20240413-142619-217.mp4",
-      "T": 216,
-      "score": 8.6689
-    },
-    {
       "id": "P02-20240209-184316-869",
       "participant": "P02",
       "text": "stir through the food to ensure even cooking",
@@ -2654,15 +3428,6 @@
       "rgb_url": "videos/hdepic/P05-20240427-143353-309.mp4",
       "T": 178,
       "score": 8.6555
-    },
-    {
-      "id": "P07-20240531-101357-446",
-      "participant": "P07",
-      "text": "pick up the rubber feet of the air fryer grille with the draining board. replace it",
-      "data_url": "static/data/hdepic/P07-20240531-101357-446.json",
-      "rgb_url": "videos/hdepic/P07-20240531-101357-446.mp4",
-      "T": 217,
-      "score": 8.6541
     },
     {
       "id": "P05-20240425-201444-262",
@@ -2782,24 +3547,6 @@
       "score": 8.5763
     },
     {
-      "id": "P04-20240414-065311-526",
-      "participant": "P04",
-      "text": "tilt the pan over the fresh plate. transfer the scrambled eggs from the pan to the plate using the rubber spatula",
-      "data_url": "static/data/hdepic/P04-20240414-065311-526.json",
-      "rgb_url": "videos/hdepic/P04-20240414-065311-526.mp4",
-      "T": 199,
-      "score": 8.5744
-    },
-    {
-      "id": "P08-20240614-085000-296",
-      "participant": "P08",
-      "text": "put the pan under running water to clean",
-      "data_url": "static/data/hdepic/P08-20240614-085000-296.json",
-      "rgb_url": "videos/hdepic/P08-20240614-085000-296.mp4",
-      "T": 156,
-      "score": 8.5702
-    },
-    {
       "id": "P01-20240204-121042-654",
       "participant": "P01",
       "text": "continue breaking the mixture by pushing the spatula inside it",
@@ -2818,15 +3565,6 @@
       "score": 8.5635
     },
     {
-      "id": "P04-20240413-142619-148",
-      "participant": "P04",
-      "text": "tip the bowl of chicken to pour out excess water with the left hand",
-      "data_url": "static/data/hdepic/P04-20240413-142619-148.json",
-      "rgb_url": "videos/hdepic/P04-20240413-142619-148.mp4",
-      "T": 290,
-      "score": 8.5563
-    },
-    {
       "id": "P01-20240203-184214-258",
       "participant": "P01",
       "text": "unroll the cling film from the tube using both hands",
@@ -2834,15 +3572,6 @@
       "rgb_url": "videos/hdepic/P01-20240203-184214-258.mp4",
       "T": 138,
       "score": 8.5521
-    },
-    {
-      "id": "P08-20240613-123547-46",
-      "participant": "P08",
-      "text": "grab more cherry tomatoes and slice down with the knife in the right hand.",
-      "data_url": "static/data/hdepic/P08-20240613-123547-46.json",
-      "rgb_url": "videos/hdepic/P08-20240613-123547-46.mp4",
-      "T": 187,
-      "score": 8.5473
     },
     {
       "id": "P05-20240425-173353-23",
@@ -2854,24 +3583,6 @@
       "score": 8.5459
     },
     {
-      "id": "P07-20240529-191007-400",
-      "participant": "P07",
-      "text": "open the foil packaging and pour the crumbled stock cube into the mushroom broth",
-      "data_url": "static/data/hdepic/P07-20240529-191007-400.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-400.mp4",
-      "T": 145,
-      "score": 8.5419
-    },
-    {
-      "id": "P01-20240204-121042-533",
-      "participant": "P01",
-      "text": "slide the spatula against the rim of the pot to drop the soft dates",
-      "data_url": "static/data/hdepic/P01-20240204-121042-533.json",
-      "rgb_url": "videos/hdepic/P01-20240204-121042-533.mp4",
-      "T": 196,
-      "score": 8.5367
-    },
-    {
       "id": "P07-20240529-194518-483",
       "participant": "P07",
       "text": "stir the contents of the frying pan with the wooden spatula",
@@ -2879,15 +3590,6 @@
       "rgb_url": "videos/hdepic/P07-20240529-194518-483.mp4",
       "T": 214,
       "score": 8.5331
-    },
-    {
-      "id": "P01-20240203-135502-436",
-      "participant": "P01",
-      "text": "insert the spoon inside the jar and mix the content",
-      "data_url": "static/data/hdepic/P01-20240203-135502-436.json",
-      "rgb_url": "videos/hdepic/P01-20240203-135502-436.mp4",
-      "T": 238,
-      "score": 8.5319
     },
     {
       "id": "P03-20240216-185832-503",
@@ -2915,15 +3617,6 @@
       "rgb_url": "videos/hdepic/P02-20240209-184316-1058.mp4",
       "T": 166,
       "score": 8.5296
-    },
-    {
-      "id": "P04-20240414-170520-239",
-      "participant": "P04",
-      "text": "use the spatula to drag and transfer the mashed potatoes from the plate to the pan",
-      "data_url": "static/data/hdepic/P04-20240414-170520-239.json",
-      "rgb_url": "videos/hdepic/P04-20240414-170520-239.mp4",
-      "T": 201,
-      "score": 8.5221
     },
     {
       "id": "P01-20240203-123350-456",
@@ -2960,15 +3653,6 @@
       "rgb_url": "videos/hdepic/P07-20240531-101357-431.mp4",
       "T": 155,
       "score": 8.5166
-    },
-    {
-      "id": "P07-20240530-102543-534",
-      "participant": "P07",
-      "text": "scoop up cookie dough with both spoons. transfer cookie dough from one spoon to the other repeatedly. place the round ball of cookie dough onto the baking tray.",
-      "data_url": "static/data/hdepic/P07-20240530-102543-534.json",
-      "rgb_url": "videos/hdepic/P07-20240530-102543-534.mp4",
-      "T": 241,
-      "score": 8.5145
     },
     {
       "id": "P05-20240425-082420-65",
@@ -3034,15 +3718,6 @@
       "score": 8.4856
     },
     {
-      "id": "P05-20240424-171038-83",
-      "participant": "P05",
-      "text": "pick up the bag of lemons with the right hand",
-      "data_url": "static/data/hdepic/P05-20240424-171038-83.json",
-      "rgb_url": "videos/hdepic/P05-20240424-171038-83.mp4",
-      "T": 184,
-      "score": 8.47
-    },
-    {
       "id": "P04-20240414-072251-47",
       "participant": "P04",
       "text": "scrub the whisk with the dish sponge held by the right hand",
@@ -3079,15 +3754,6 @@
       "score": 8.467
     },
     {
-      "id": "P08-20240614-085000-216",
-      "participant": "P08",
-      "text": "pick up spatula with the right hand",
-      "data_url": "static/data/hdepic/P08-20240614-085000-216.json",
-      "rgb_url": "videos/hdepic/P08-20240614-085000-216.mp4",
-      "T": 175,
-      "score": 8.4637
-    },
-    {
       "id": "P02-20240211-120927-365",
       "participant": "P02",
       "text": "stir the raspberry and lemon curd mixture using the spoon in the right hand",
@@ -3104,15 +3770,6 @@
       "rgb_url": "videos/hdepic/P07-20240529-191007-406.mp4",
       "T": 176,
       "score": 8.4551
-    },
-    {
-      "id": "P09-20240621-153208-72",
-      "participant": "P09",
-      "text": "place the hibiscus flowers in the pan with the right hand",
-      "data_url": "static/data/hdepic/P09-20240621-153208-72.json",
-      "rgb_url": "videos/hdepic/P09-20240621-153208-72.mp4",
-      "T": 170,
-      "score": 8.4357
     },
     {
       "id": "P01-20240203-135502-194",
@@ -3158,15 +3815,6 @@
       "rgb_url": "videos/hdepic/P04-20240414-175337-117.mp4",
       "T": 168,
       "score": 8.3951
-    },
-    {
-      "id": "P07-20240529-191007-494",
-      "participant": "P07",
-      "text": "pick up the glass jar of rice with both hands.",
-      "data_url": "static/data/hdepic/P07-20240529-191007-494.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-494.mp4",
-      "T": 186,
-      "score": 8.3867
     },
     {
       "id": "P02-20240211-120927-442",
@@ -3394,15 +4042,6 @@
       "score": 8.2985
     },
     {
-      "id": "P04-20240414-065311-55",
-      "participant": "P04",
-      "text": "transfer the egg white into the box",
-      "data_url": "static/data/hdepic/P04-20240414-065311-55.json",
-      "rgb_url": "videos/hdepic/P04-20240414-065311-55.mp4",
-      "T": 262,
-      "score": 8.296
-    },
-    {
       "id": "P03-20240218-140054-46",
       "participant": "P03",
       "text": "fill saucepan with cold water above sink with left hand",
@@ -3457,24 +4096,6 @@
       "score": 8.2779
     },
     {
-      "id": "P01-20240203-130505-154",
-      "participant": "P01",
-      "text": "place both carrot ends on the countertop",
-      "data_url": "static/data/hdepic/P01-20240203-130505-154.json",
-      "rgb_url": "videos/hdepic/P01-20240203-130505-154.mp4",
-      "T": 150,
-      "score": 8.2769
-    },
-    {
-      "id": "P07-20240531-101357-415",
-      "participant": "P07",
-      "text": "lift the air fryer grille out of the sink with the left hand",
-      "data_url": "static/data/hdepic/P07-20240531-101357-415.json",
-      "rgb_url": "videos/hdepic/P07-20240531-101357-415.mp4",
-      "T": 163,
-      "score": 8.2768
-    },
-    {
       "id": "P07-20240531-201703-345",
       "participant": "P07",
       "text": "twist the blades of the can opener by turning the handle",
@@ -3527,15 +4148,6 @@
       "rgb_url": "videos/hdepic/P02-20240211-141313-448.mp4",
       "T": 212,
       "score": 8.256
-    },
-    {
-      "id": "P05-20240424-171038-317",
-      "participant": "P05",
-      "text": "put lettuce on the chopping board. chop lettuce with the right hand",
-      "data_url": "static/data/hdepic/P05-20240424-171038-317.json",
-      "rgb_url": "videos/hdepic/P05-20240424-171038-317.mp4",
-      "T": 222,
-      "score": 8.2559
     },
     {
       "id": "P07-20240529-191007-390",
@@ -3610,33 +4222,6 @@
       "score": 8.2404
     },
     {
-      "id": "P05-20240424-171038-358",
-      "participant": "P05",
-      "text": "pour peas and pasta into colander",
-      "data_url": "static/data/hdepic/P05-20240424-171038-358.json",
-      "rgb_url": "videos/hdepic/P05-20240424-171038-358.mp4",
-      "T": 149,
-      "score": 8.2364
-    },
-    {
-      "id": "P07-20240529-191007-465",
-      "participant": "P07",
-      "text": "pick up the wooden spatula and stir the onion and garlic",
-      "data_url": "static/data/hdepic/P07-20240529-191007-465.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-465.mp4",
-      "T": 169,
-      "score": 8.2345
-    },
-    {
-      "id": "P05-20240427-143353-22",
-      "participant": "P05",
-      "text": "pour rice into the sieve above the pan with both hands",
-      "data_url": "static/data/hdepic/P05-20240427-143353-22.json",
-      "rgb_url": "videos/hdepic/P05-20240427-143353-22.mp4",
-      "T": 255,
-      "score": 8.2316
-    },
-    {
       "id": "P01-20240203-123350-147",
       "participant": "P01",
       "text": "peel the skin off the onion with the left hand and right hand",
@@ -3662,15 +4247,6 @@
       "rgb_url": "videos/hdepic/P07-20240530-102543-185.mp4",
       "T": 169,
       "score": 8.2221
-    },
-    {
-      "id": "P04-20240414-173337-373",
-      "participant": "P04",
-      "text": "transfer the broken dosa from the pan to the small plate",
-      "data_url": "static/data/hdepic/P04-20240414-173337-373.json",
-      "rgb_url": "videos/hdepic/P04-20240414-173337-373.mp4",
-      "T": 194,
-      "score": 8.2185
     },
     {
       "id": "P08-20240614-085000-202",
@@ -3700,24 +4276,6 @@
       "score": 8.217
     },
     {
-      "id": "P01-20240203-121517-199",
-      "participant": "P01",
-      "text": "pour more flour into the glass in the bowl",
-      "data_url": "static/data/hdepic/P01-20240203-121517-199.json",
-      "rgb_url": "videos/hdepic/P01-20240203-121517-199.mp4",
-      "T": 190,
-      "score": 8.2169
-    },
-    {
-      "id": "P07-20240531-201703-525",
-      "participant": "P07",
-      "text": "place the chopping board in the sink",
-      "data_url": "static/data/hdepic/P07-20240531-201703-525.json",
-      "rgb_url": "videos/hdepic/P07-20240531-201703-525.mp4",
-      "T": 158,
-      "score": 8.2119
-    },
-    {
       "id": "P06-20240510-090328-151",
       "participant": "P06",
       "text": "rotate the pieces of tomato by ninety degrees to chop them finely with the knife in the right hand",
@@ -3727,15 +4285,6 @@
       "score": 8.2113
     },
     {
-      "id": "P02-20240211-175138-971",
-      "participant": "P02",
-      "text": "grab saucepan to keep it steady",
-      "data_url": "static/data/hdepic/P02-20240211-175138-971.json",
-      "rgb_url": "videos/hdepic/P02-20240211-175138-971.mp4",
-      "T": 182,
-      "score": 8.2098
-    },
-    {
       "id": "P04-20240414-065311-299",
       "participant": "P04",
       "text": "spread the olive oil in the pan with the spatula",
@@ -3743,24 +4292,6 @@
       "rgb_url": "videos/hdepic/P04-20240414-065311-299.mp4",
       "T": 172,
       "score": 8.2085
-    },
-    {
-      "id": "P07-20240531-101357-695",
-      "participant": "P07",
-      "text": "pour boiling water into the right side of the sink",
-      "data_url": "static/data/hdepic/P07-20240531-101357-695.json",
-      "rgb_url": "videos/hdepic/P07-20240531-101357-695.mp4",
-      "T": 140,
-      "score": 8.1989
-    },
-    {
-      "id": "P07-20240531-201703-411",
-      "participant": "P07",
-      "text": "carry the sweet potato to the kitchen island",
-      "data_url": "static/data/hdepic/P07-20240531-201703-411.json",
-      "rgb_url": "videos/hdepic/P07-20240531-201703-411.mp4",
-      "T": 129,
-      "score": 8.1934
     },
     {
       "id": "P08-20240613-122900-42",
@@ -3799,15 +4330,6 @@
       "score": 8.1105
     },
     {
-      "id": "P07-20240529-191007-282",
-      "participant": "P07",
-      "text": "place the mushroom on the chopping board and cut it into thin slices with the knife using the right hand",
-      "data_url": "static/data/hdepic/P07-20240529-191007-282.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-282.mp4",
-      "T": 130,
-      "score": 8.1023
-    },
-    {
       "id": "P02-20240211-111219-98",
       "participant": "P02",
       "text": "dry the inside of the large mixing bowl with the tea towel",
@@ -3815,15 +4337,6 @@
       "rgb_url": "videos/hdepic/P02-20240211-111219-98.mp4",
       "T": 124,
       "score": 8.0975
-    },
-    {
-      "id": "P02-20240211-141313-331",
-      "participant": "P02",
-      "text": "scoop the raspberry lemon curd mixture into the yoghurt pot with the tablespoon in the right hand",
-      "data_url": "static/data/hdepic/P02-20240211-141313-331.json",
-      "rgb_url": "videos/hdepic/P02-20240211-141313-331.mp4",
-      "T": 138,
-      "score": 8.0909
     },
     {
       "id": "P01-20240204-142301-130",
@@ -3853,15 +4366,6 @@
       "score": 8.06
     },
     {
-      "id": "P05-20240425-173353-134",
-      "participant": "P05",
-      "text": "pour pasta into the colander",
-      "data_url": "static/data/hdepic/P05-20240425-173353-134.json",
-      "rgb_url": "videos/hdepic/P05-20240425-173353-134.mp4",
-      "T": 124,
-      "score": 8.052
-    },
-    {
       "id": "P02-20240211-120927-764",
       "participant": "P02",
       "text": "detach the cheese straws from the baking tray with the spatula in the right hand",
@@ -3871,24 +4375,6 @@
       "score": 8.0516
     },
     {
-      "id": "P02-20240211-175138-533",
-      "participant": "P02",
-      "text": "pour out the mushrooms onto the baking tray with the large mixing bowl in the left hand",
-      "data_url": "static/data/hdepic/P02-20240211-175138-533.json",
-      "rgb_url": "videos/hdepic/P02-20240211-175138-533.mp4",
-      "T": 115,
-      "score": 8.0484
-    },
-    {
-      "id": "P03-20240218-144430-66",
-      "participant": "P03",
-      "text": "try to place colander into dishwasher bottom rack",
-      "data_url": "static/data/hdepic/P03-20240218-144430-66.json",
-      "rgb_url": "videos/hdepic/P03-20240218-144430-66.mp4",
-      "T": 134,
-      "score": 8.0442
-    },
-    {
       "id": "P02-20240211-175138-367",
       "participant": "P02",
       "text": "squeeze out the juice of the lemon half into the mixing bowl with the right hand",
@@ -3896,15 +4382,6 @@
       "rgb_url": "videos/hdepic/P02-20240211-175138-367.mp4",
       "T": 149,
       "score": 8.0425
-    },
-    {
-      "id": "P02-20240211-100250-73",
-      "participant": "P02",
-      "text": "place down the food bin to grab hold of the vacuum cleaner",
-      "data_url": "static/data/hdepic/P02-20240211-100250-73.json",
-      "rgb_url": "videos/hdepic/P02-20240211-100250-73.mp4",
-      "T": 123,
-      "score": 8.0352
     },
     {
       "id": "P07-20240531-101357-483",
@@ -3970,15 +4447,6 @@
       "score": 7.9712
     },
     {
-      "id": "P07-20240529-194518-546",
-      "participant": "P07",
-      "text": "bring the teaspoon to the mouth.",
-      "data_url": "static/data/hdepic/P07-20240529-194518-546.json",
-      "rgb_url": "videos/hdepic/P07-20240529-194518-546.mp4",
-      "T": 149,
-      "score": 7.9673
-    },
-    {
       "id": "P05-20240424-171038-371",
       "participant": "P05",
       "text": "scrape more pesto from the bowl into the pan",
@@ -3995,15 +4463,6 @@
       "rgb_url": "videos/hdepic/P07-20240531-201703-353.mp4",
       "T": 127,
       "score": 7.9494
-    },
-    {
-      "id": "P03-20240216-084005-157",
-      "participant": "P03",
-      "text": "put down the coffee beans bag on the kitchen top",
-      "data_url": "static/data/hdepic/P03-20240216-084005-157.json",
-      "rgb_url": "videos/hdepic/P03-20240216-084005-157.mp4",
-      "T": 118,
-      "score": 7.936
     },
     {
       "id": "P01-20240203-150506-307",
@@ -4267,15 +4726,6 @@
       "score": 7.7596
     },
     {
-      "id": "P07-20240531-201703-177",
-      "participant": "P07",
-      "text": "place the avocado on the wooden chopping board and cut it in half with the serrated knife",
-      "data_url": "static/data/hdepic/P07-20240531-201703-177.json",
-      "rgb_url": "videos/hdepic/P07-20240531-201703-177.mp4",
-      "T": 135,
-      "score": 7.7595
-    },
-    {
       "id": "P03-20240218-202148-321",
       "participant": "P03",
       "text": "close the food container by pressing down the lid",
@@ -4283,15 +4733,6 @@
       "rgb_url": "videos/hdepic/P03-20240218-202148-321.mp4",
       "T": 131,
       "score": 7.759
-    },
-    {
-      "id": "P05-20240424-171038-238",
-      "participant": "P05",
-      "text": "pick up the pestle and mortar",
-      "data_url": "static/data/hdepic/P05-20240424-171038-238.json",
-      "rgb_url": "videos/hdepic/P05-20240424-171038-238.mp4",
-      "T": 101,
-      "score": 7.7571
     },
     {
       "id": "P08-20240613-123547-1",
@@ -4319,15 +4760,6 @@
       "rgb_url": "videos/hdepic/P05-20240425-173353-214.mp4",
       "T": 116,
       "score": 7.7492
-    },
-    {
-      "id": "P02-20240211-175138-952",
-      "participant": "P02",
-      "text": "place the wrapper on the countertop with the left hand",
-      "data_url": "static/data/hdepic/P02-20240211-175138-952.json",
-      "rgb_url": "videos/hdepic/P02-20240211-175138-952.mp4",
-      "T": 147,
-      "score": 7.7389
     },
     {
       "id": "P07-20240531-101357-182",
@@ -4375,15 +4807,6 @@
       "score": 7.7238
     },
     {
-      "id": "P07-20240531-201703-400",
-      "participant": "P07",
-      "text": "pick up the lid of the canister and scrape the sauce off into the blue bowl",
-      "data_url": "static/data/hdepic/P07-20240531-201703-400.json",
-      "rgb_url": "videos/hdepic/P07-20240531-201703-400.mp4",
-      "T": 124,
-      "score": 7.7237
-    },
-    {
       "id": "P07-20240531-101357-535",
       "participant": "P07",
       "text": "brace the left hand against the cabinets. wipe the side of the cabinets with the dishcloth in the right hand.",
@@ -4420,24 +4843,6 @@
       "score": 7.6974
     },
     {
-      "id": "P05-20240424-171038-164",
-      "participant": "P05",
-      "text": "pick up the cashew nut bag and weigh cashew nuts in the mortar on the scales",
-      "data_url": "static/data/hdepic/P05-20240424-171038-164.json",
-      "rgb_url": "videos/hdepic/P05-20240424-171038-164.mp4",
-      "T": 108,
-      "score": 7.6954
-    },
-    {
-      "id": "P06-20240510-100047-173",
-      "participant": "P06",
-      "text": "tilt the cup to pour milk into another cup",
-      "data_url": "static/data/hdepic/P06-20240510-100047-173.json",
-      "rgb_url": "videos/hdepic/P06-20240510-100047-173.mp4",
-      "T": 104,
-      "score": 7.6888
-    },
-    {
       "id": "P07-20240531-201703-49",
       "participant": "P07",
       "text": "collect the pieces of the sweet potato together to chop them into cubes",
@@ -4454,24 +4859,6 @@
       "rgb_url": "videos/hdepic/P02-20240209-194141-341.mp4",
       "T": 108,
       "score": 7.6841
-    },
-    {
-      "id": "P02-20240211-120927-912",
-      "participant": "P02",
-      "text": "scoop up the mixture with the tablespoon in the right hand",
-      "data_url": "static/data/hdepic/P02-20240211-120927-912.json",
-      "rgb_url": "videos/hdepic/P02-20240211-120927-912.mp4",
-      "T": 102,
-      "score": 7.6825
-    },
-    {
-      "id": "P07-20240530-102543-408",
-      "participant": "P07",
-      "text": "pick up the scrubbing brush from the sink. clean the baking tray",
-      "data_url": "static/data/hdepic/P07-20240530-102543-408.json",
-      "rgb_url": "videos/hdepic/P07-20240530-102543-408.mp4",
-      "T": 108,
-      "score": 7.6784
     },
     {
       "id": "P01-20240202-161948-236",
@@ -4508,15 +4895,6 @@
       "rgb_url": "videos/hdepic/P01-20240203-123350-366.mp4",
       "T": 117,
       "score": 7.6651
-    },
-    {
-      "id": "P07-20240529-191007-291",
-      "participant": "P07",
-      "text": "place the mushroom on the chopping board and chop it into thin slices with the knife using the right hand",
-      "data_url": "static/data/hdepic/P07-20240529-191007-291.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-291.mp4",
-      "T": 131,
-      "score": 7.6637
     },
     {
       "id": "P06-20240510-090328-484",
@@ -4618,15 +4996,6 @@
       "score": 7.6415
     },
     {
-      "id": "P02-20240209-184316-1147",
-      "participant": "P02",
-      "text": "scoop some of the remaining food onto the plate",
-      "data_url": "static/data/hdepic/P02-20240209-184316-1147.json",
-      "rgb_url": "videos/hdepic/P02-20240209-184316-1147.mp4",
-      "T": 135,
-      "score": 7.6296
-    },
-    {
       "id": "P02-20240211-175138-951",
       "participant": "P02",
       "text": "peel off the wrapper around the lid of the minced garlic jar",
@@ -4645,15 +5014,6 @@
       "score": 7.6278
     },
     {
-      "id": "P07-20240531-201703-133",
-      "participant": "P07",
-      "text": "put the tray down on the wooden chopping board",
-      "data_url": "static/data/hdepic/P07-20240531-201703-133.json",
-      "rgb_url": "videos/hdepic/P07-20240531-201703-133.mp4",
-      "T": 132,
-      "score": 7.6267
-    },
-    {
       "id": "P02-20240209-184316-1001",
       "participant": "P02",
       "text": "stir the apple cider vinegar through the food in the frying pan using the spatula in the right hand. hold the frying pan in the left hand",
@@ -4670,15 +5030,6 @@
       "rgb_url": "videos/hdepic/P03-20240216-084005-159.mp4",
       "T": 131,
       "score": 7.6248
-    },
-    {
-      "id": "P06-20240510-090328-553",
-      "participant": "P06",
-      "text": "tilt the bowl to pour the batter into the frying pan with the left hand",
-      "data_url": "static/data/hdepic/P06-20240510-090328-553.json",
-      "rgb_url": "videos/hdepic/P06-20240510-090328-553.mp4",
-      "T": 142,
-      "score": 7.622
     },
     {
       "id": "P02-20240211-100250-45",
@@ -4706,33 +5057,6 @@
       "rgb_url": "videos/hdepic/P03-20240218-140054-10.mp4",
       "T": 126,
       "score": 7.6133
-    },
-    {
-      "id": "P02-20240211-141313-707",
-      "participant": "P02",
-      "text": "place the tupperware container on the second shelf of the fridge",
-      "data_url": "static/data/hdepic/P02-20240211-141313-707.json",
-      "rgb_url": "videos/hdepic/P02-20240211-141313-707.mp4",
-      "T": 119,
-      "score": 7.6063
-    },
-    {
-      "id": "P04-20240414-173337-309",
-      "participant": "P04",
-      "text": "transfer the bits of dosa from the pan to the small plate by scraping it with the spatula",
-      "data_url": "static/data/hdepic/P04-20240414-173337-309.json",
-      "rgb_url": "videos/hdepic/P04-20240414-173337-309.mp4",
-      "T": 138,
-      "score": 7.6015
-    },
-    {
-      "id": "P02-20240211-141313-674",
-      "participant": "P02",
-      "text": "put the cardboard insert into the box using both hands",
-      "data_url": "static/data/hdepic/P02-20240211-141313-674.json",
-      "rgb_url": "videos/hdepic/P02-20240211-141313-674.mp4",
-      "T": 127,
-      "score": 7.5979
     },
     {
       "id": "P04-20240413-142619-333",
@@ -4834,42 +5158,6 @@
       "score": 7.5628
     },
     {
-      "id": "P02-20240209-194141-293",
-      "participant": "P02",
-      "text": "push and scrape food and dirt from the hob with the sponge in the right hand. place the food bin against the countertop with the left hand",
-      "data_url": "static/data/hdepic/P02-20240209-194141-293.json",
-      "rgb_url": "videos/hdepic/P02-20240209-194141-293.mp4",
-      "T": 118,
-      "score": 7.5547
-    },
-    {
-      "id": "P06-20240510-090328-382",
-      "participant": "P06",
-      "text": "pour the pancake batter into the frying pan with the spoon in the right hand. hold the bowl in the left hand",
-      "data_url": "static/data/hdepic/P06-20240510-090328-382.json",
-      "rgb_url": "videos/hdepic/P06-20240510-090328-382.mp4",
-      "T": 119,
-      "score": 7.5521
-    },
-    {
-      "id": "P09-20240622-150155-923",
-      "participant": "P09",
-      "text": "place shredded chicken in the green bowl with forks",
-      "data_url": "static/data/hdepic/P09-20240622-150155-923.json",
-      "rgb_url": "videos/hdepic/P09-20240622-150155-923.mp4",
-      "T": 122,
-      "score": 7.5495
-    },
-    {
-      "id": "P06-20240510-090328-384",
-      "participant": "P06",
-      "text": "pour the remaining batter from the bowl into the frying pan with the spoon in the right hand",
-      "data_url": "static/data/hdepic/P06-20240510-090328-384.json",
-      "rgb_url": "videos/hdepic/P06-20240510-090328-384.mp4",
-      "T": 135,
-      "score": 7.5493
-    },
-    {
       "id": "P01-20240203-135502-258",
       "participant": "P01",
       "text": "continue mixing the content of the pot",
@@ -4895,24 +5183,6 @@
       "rgb_url": "videos/hdepic/P01-20240203-135502-390.mp4",
       "T": 123,
       "score": 7.5388
-    },
-    {
-      "id": "P07-20240529-191007-457",
-      "participant": "P07",
-      "text": "pick up the wooden spatula. stir the minced garlic in the frying pan",
-      "data_url": "static/data/hdepic/P07-20240529-191007-457.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-457.mp4",
-      "T": 112,
-      "score": 7.5362
-    },
-    {
-      "id": "P07-20240529-191007-252",
-      "participant": "P07",
-      "text": "place the mushroom on the chopping board. slice it with the knife in the right hand",
-      "data_url": "static/data/hdepic/P07-20240529-191007-252.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-252.mp4",
-      "T": 129,
-      "score": 7.535
     },
     {
       "id": "P02-20240210-100308-37",
@@ -4967,24 +5237,6 @@
       "rgb_url": "videos/hdepic/P03-20240218-140054-250.mp4",
       "T": 89,
       "score": 7.5268
-    },
-    {
-      "id": "P05-20240426-085333-21",
-      "participant": "P05",
-      "text": "pour porridge into bowl on scales with both hands",
-      "data_url": "static/data/hdepic/P05-20240426-085333-21.json",
-      "rgb_url": "videos/hdepic/P05-20240426-085333-21.mp4",
-      "T": 148,
-      "score": 7.5247
-    },
-    {
-      "id": "P07-20240529-191007-286",
-      "participant": "P07",
-      "text": "place the mushroom on the chopping board and cut it into thin slices with the knife using the right hand",
-      "data_url": "static/data/hdepic/P07-20240529-191007-286.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-286.mp4",
-      "T": 122,
-      "score": 7.5207
     },
     {
       "id": "P06-20240510-090328-617",
@@ -5059,15 +5311,6 @@
       "score": 7.4835
     },
     {
-      "id": "P05-20240425-201444-536",
-      "participant": "P05",
-      "text": "pull out a shelf with chocolate puddings using the oven glove",
-      "data_url": "static/data/hdepic/P05-20240425-201444-536.json",
-      "rgb_url": "videos/hdepic/P05-20240425-201444-536.mp4",
-      "T": 120,
-      "score": 7.483
-    },
-    {
       "id": "P07-20240530-102543-474",
       "participant": "P07",
       "text": "smooth the baking paper down onto the baking tray with both hands",
@@ -5138,15 +5381,6 @@
       "rgb_url": "videos/hdepic/P06-20240510-100047-376.mp4",
       "T": 128,
       "score": 7.4632
-    },
-    {
-      "id": "P06-20240510-100047-262",
-      "participant": "P06",
-      "text": "place the chopping board in the crockery tray with my right hand",
-      "data_url": "static/data/hdepic/P06-20240510-100047-262.json",
-      "rgb_url": "videos/hdepic/P06-20240510-100047-262.mp4",
-      "T": 115,
-      "score": 7.463
     },
     {
       "id": "P08-20240614-085000-194",
@@ -5230,15 +5464,6 @@
       "score": 7.4249
     },
     {
-      "id": "P04-20240414-173337-46",
-      "participant": "P04",
-      "text": "put down the rag on the countertop",
-      "data_url": "static/data/hdepic/P04-20240414-173337-46.json",
-      "rgb_url": "videos/hdepic/P04-20240414-173337-46.mp4",
-      "T": 124,
-      "score": 7.4205
-    },
-    {
       "id": "P01-20240204-121042-468",
       "participant": "P01",
       "text": "rinse the tray",
@@ -5311,15 +5536,6 @@
       "score": 7.4009
     },
     {
-      "id": "P05-20240424-175101-176",
-      "participant": "P05",
-      "text": "place the bowl of pasta on the second drawer of the fridge",
-      "data_url": "static/data/hdepic/P05-20240424-175101-176.json",
-      "rgb_url": "videos/hdepic/P05-20240424-175101-176.mp4",
-      "T": 110,
-      "score": 7.388
-    },
-    {
       "id": "P07-20240531-201703-392",
       "participant": "P07",
       "text": "stir the ingredients with the spoon",
@@ -5336,24 +5552,6 @@
       "rgb_url": "videos/hdepic/P02-20240211-141313-487.mp4",
       "T": 114,
       "score": 7.3848
-    },
-    {
-      "id": "P04-20240414-173337-298",
-      "participant": "P04",
-      "text": "continue trying to pick up the broken dosa with the spatula.",
-      "data_url": "static/data/hdepic/P04-20240414-173337-298.json",
-      "rgb_url": "videos/hdepic/P04-20240414-173337-298.mp4",
-      "T": 132,
-      "score": 7.3814
-    },
-    {
-      "id": "P06-20240510-100047-16",
-      "participant": "P06",
-      "text": "open the water tap with the right hand to fill the electric kettle in the left hand",
-      "data_url": "static/data/hdepic/P06-20240510-100047-16.json",
-      "rgb_url": "videos/hdepic/P06-20240510-100047-16.mp4",
-      "T": 140,
-      "score": 7.3811
     },
     {
       "id": "P06-20240510-104642-1016",
@@ -5381,15 +5579,6 @@
       "rgb_url": "videos/hdepic/P07-20240529-194518-342.mp4",
       "T": 145,
       "score": 7.3787
-    },
-    {
-      "id": "P03-20240218-144430-396",
-      "participant": "P03",
-      "text": "pour water from the kettle into the V60 coffee filter",
-      "data_url": "static/data/hdepic/P03-20240218-144430-396.json",
-      "rgb_url": "videos/hdepic/P03-20240218-144430-396.mp4",
-      "T": 148,
-      "score": 7.3773
     },
     {
       "id": "P01-20240203-130505-187",
@@ -5435,24 +5624,6 @@
       "rgb_url": "videos/hdepic/P08-20240614-085000-221.mp4",
       "T": 134,
       "score": 7.3671
-    },
-    {
-      "id": "P03-20240216-185832-1127",
-      "participant": "P03",
-      "text": "pick up the eggshell fragment with the right hand and throw it into the sink",
-      "data_url": "static/data/hdepic/P03-20240216-185832-1127.json",
-      "rgb_url": "videos/hdepic/P03-20240216-185832-1127.mp4",
-      "T": 118,
-      "score": 7.3647
-    },
-    {
-      "id": "P07-20240529-191007-135",
-      "participant": "P07",
-      "text": "pick up kettle with left hand. pour boiling water into glass jug with right hand",
-      "data_url": "static/data/hdepic/P07-20240529-191007-135.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-135.mp4",
-      "T": 104,
-      "score": 7.3646
     },
     {
       "id": "P07-20240531-201703-30",
@@ -5536,24 +5707,6 @@
       "score": 7.3392
     },
     {
-      "id": "P02-20240211-120927-906",
-      "participant": "P02",
-      "text": "scoop up the mixture with the tablespoon in the right hand",
-      "data_url": "static/data/hdepic/P02-20240211-120927-906.json",
-      "rgb_url": "videos/hdepic/P02-20240211-120927-906.mp4",
-      "T": 99,
-      "score": 7.3389
-    },
-    {
-      "id": "P03-20240218-144430-408",
-      "participant": "P03",
-      "text": "pour water from the kettle into the V60 coffee filter.",
-      "data_url": "static/data/hdepic/P03-20240218-144430-408.json",
-      "rgb_url": "videos/hdepic/P03-20240218-144430-408.mp4",
-      "T": 140,
-      "score": 7.3353
-    },
-    {
       "id": "P01-20240202-110250-63",
       "participant": "P01",
       "text": "feel through the flattened part of the roll",
@@ -5570,15 +5723,6 @@
       "rgb_url": "videos/hdepic/P04-20240414-072251-64.mp4",
       "T": 130,
       "score": 7.3322
-    },
-    {
-      "id": "P05-20240425-083515-39",
-      "participant": "P05",
-      "text": "pour raisins into the porridge",
-      "data_url": "static/data/hdepic/P05-20240425-083515-39.json",
-      "rgb_url": "videos/hdepic/P05-20240425-083515-39.mp4",
-      "T": 111,
-      "score": 7.3308
     },
     {
       "id": "P01-20240204-145458-429",
@@ -5651,15 +5795,6 @@
       "rgb_url": "videos/hdepic/P05-20240427-143353-239.mp4",
       "T": 143,
       "score": 7.3102
-    },
-    {
-      "id": "P02-20240211-120927-909",
-      "participant": "P02",
-      "text": "scoop up the mixture with the tablespoon in the right hand",
-      "data_url": "static/data/hdepic/P02-20240211-120927-909.json",
-      "rgb_url": "videos/hdepic/P02-20240211-120927-909.mp4",
-      "T": 103,
-      "score": 7.3083
     },
     {
       "id": "P02-20240211-175138-119",
@@ -5779,24 +5914,6 @@
       "score": 7.2737
     },
     {
-      "id": "P02-20240211-120927-1231",
-      "participant": "P02",
-      "text": "put the cheese block back into the packaging",
-      "data_url": "static/data/hdepic/P02-20240211-120927-1231.json",
-      "rgb_url": "videos/hdepic/P02-20240211-120927-1231.mp4",
-      "T": 113,
-      "score": 7.2734
-    },
-    {
-      "id": "P01-20240203-123350-75",
-      "participant": "P01",
-      "text": "gather the dough with my right hand to pick it up from the bigger bowl",
-      "data_url": "static/data/hdepic/P01-20240203-123350-75.json",
-      "rgb_url": "videos/hdepic/P01-20240203-123350-75.mp4",
-      "T": 108,
-      "score": 7.272
-    },
-    {
       "id": "P01-20240204-121042-616",
       "participant": "P01",
       "text": "stir the dates in the pot with the left hand",
@@ -5833,15 +5950,6 @@
       "score": 7.2638
     },
     {
-      "id": "P03-20240218-144430-377",
-      "participant": "P03",
-      "text": "pour water from the kettle into the V60 coffee filter",
-      "data_url": "static/data/hdepic/P03-20240218-144430-377.json",
-      "rgb_url": "videos/hdepic/P03-20240218-144430-377.mp4",
-      "T": 140,
-      "score": 7.2636
-    },
-    {
       "id": "P05-20240424-171038-188",
       "participant": "P05",
       "text": "grate parmesan",
@@ -5849,24 +5957,6 @@
       "rgb_url": "videos/hdepic/P05-20240424-171038-188.mp4",
       "T": 139,
       "score": 7.2622
-    },
-    {
-      "id": "P07-20240529-191007-309",
-      "participant": "P07",
-      "text": "put down the pen and peel open the plastic packaging",
-      "data_url": "static/data/hdepic/P07-20240529-191007-309.json",
-      "rgb_url": "videos/hdepic/P07-20240529-191007-309.mp4",
-      "T": 121,
-      "score": 7.2622
-    },
-    {
-      "id": "P02-20240211-175138-370",
-      "participant": "P02",
-      "text": "pick up the lemon seeds from the mixing bowl with the right hand",
-      "data_url": "static/data/hdepic/P02-20240211-175138-370.json",
-      "rgb_url": "videos/hdepic/P02-20240211-175138-370.mp4",
-      "T": 122,
-      "score": 7.2555
     },
     {
       "id": "P03-20240216-084005-440",
@@ -6013,24 +6103,6 @@
       "score": 7.2044
     },
     {
-      "id": "P04-20240414-162750-91",
-      "participant": "P04",
-      "text": "stretch the rubber band with the right hand. put it back on the twigs of coriander leaves",
-      "data_url": "static/data/hdepic/P04-20240414-162750-91.json",
-      "rgb_url": "videos/hdepic/P04-20240414-162750-91.mp4",
-      "T": 140,
-      "score": 7.1993
-    },
-    {
-      "id": "P02-20240211-111822-895",
-      "participant": "P02",
-      "text": "scoop out the rest of the raspberry and lemon puree using the large plastic spoon in the right hand",
-      "data_url": "static/data/hdepic/P02-20240211-111822-895.json",
-      "rgb_url": "videos/hdepic/P02-20240211-111822-895.mp4",
-      "T": 99,
-      "score": 7.196
-    },
-    {
       "id": "P07-20240531-101357-420",
       "participant": "P07",
       "text": "brace the air fryer grille against the sink edge",
@@ -6076,15 +6148,6 @@
       "score": 7.1857
     },
     {
-      "id": "P03-20240216-090759-240",
-      "participant": "P03",
-      "text": "grab a stack of recipe cards from the table",
-      "data_url": "static/data/hdepic/P03-20240216-090759-240.json",
-      "rgb_url": "videos/hdepic/P03-20240216-090759-240.mp4",
-      "T": 106,
-      "score": 7.1852
-    },
-    {
       "id": "P06-20240510-090328-643",
       "participant": "P06",
       "text": "press the surface of the pancake using the spatula in the right hand",
@@ -6112,15 +6175,6 @@
       "score": 7.1813
     },
     {
-      "id": "P07-20240530-102543-152",
-      "participant": "P07",
-      "text": "tip the packet of sugar. pour sugar into the large silver bowl",
-      "data_url": "static/data/hdepic/P07-20240530-102543-152.json",
-      "rgb_url": "videos/hdepic/P07-20240530-102543-152.mp4",
-      "T": 124,
-      "score": 7.1811
-    },
-    {
       "id": "P02-20240210-092616-15",
       "participant": "P02",
       "text": "flatten the bag with both hands",
@@ -6128,24 +6182,6 @@
       "rgb_url": "videos/hdepic/P02-20240210-092616-15.mp4",
       "T": 94,
       "score": 7.1805
-    },
-    {
-      "id": "P08-20240614-085000-1",
-      "participant": "P08",
-      "text": "put phone down on kitchen counter with the right hand",
-      "data_url": "static/data/hdepic/P08-20240614-085000-1.json",
-      "rgb_url": "videos/hdepic/P08-20240614-085000-1.mp4",
-      "T": 96,
-      "score": 7.1803
-    },
-    {
-      "id": "P07-20240529-194518-492",
-      "participant": "P07",
-      "text": "use the left hand to pull the parsley into a pile. chop using the knife in the right hand",
-      "data_url": "static/data/hdepic/P07-20240529-194518-492.json",
-      "rgb_url": "videos/hdepic/P07-20240529-194518-492.mp4",
-      "T": 125,
-      "score": 7.1802
     },
     {
       "id": "P04-20240414-072251-185",
@@ -6182,15 +6218,6 @@
       "rgb_url": "videos/hdepic/P02-20240211-115653-57.mp4",
       "T": 95,
       "score": 7.1673
-    },
-    {
-      "id": "P07-20240531-201703-356",
-      "participant": "P07",
-      "text": "transfer the tin to the left hand and scoop the beans with the spoon",
-      "data_url": "static/data/hdepic/P07-20240531-201703-356.json",
-      "rgb_url": "videos/hdepic/P07-20240531-201703-356.mp4",
-      "T": 101,
-      "score": 7.1664
     },
     {
       "id": "P07-20240530-102543-138",
@@ -6274,24 +6301,6 @@
       "score": 7.153
     },
     {
-      "id": "P05-20240424-171038-302",
-      "participant": "P05",
-      "text": "pick up the teaspoon and stir salt and pepper into pesto",
-      "data_url": "static/data/hdepic/P05-20240424-171038-302.json",
-      "rgb_url": "videos/hdepic/P05-20240424-171038-302.mp4",
-      "T": 114,
-      "score": 7.148
-    },
-    {
-      "id": "P07-20240529-194518-93",
-      "participant": "P07",
-      "text": "transfer the spatula to the left hand. continue to stir the contents of the pan",
-      "data_url": "static/data/hdepic/P07-20240529-194518-93.json",
-      "rgb_url": "videos/hdepic/P07-20240529-194518-93.mp4",
-      "T": 114,
-      "score": 7.147
-    },
-    {
       "id": "P06-20240510-100047-340",
       "participant": "P06",
       "text": "scrub the plate in the sink with the cleaning sponge in the right hand",
@@ -6299,15 +6308,6 @@
       "rgb_url": "videos/hdepic/P06-20240510-100047-340.mp4",
       "T": 121,
       "score": 7.1457
-    },
-    {
-      "id": "P03-20240216-185832-853",
-      "participant": "P03",
-      "text": "put down the lid of the milk carton on the countertop with the left hand",
-      "data_url": "static/data/hdepic/P03-20240216-185832-853.json",
-      "rgb_url": "videos/hdepic/P03-20240216-185832-853.mp4",
-      "T": 94,
-      "score": 7.1442
     },
     {
       "id": "P06-20240510-090328-543",
